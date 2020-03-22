@@ -4,5 +4,7 @@ description: Simple desc.
 github: [metadata]
 highlighter: rouge
 theme: jekyll-theme-slate
+url: "https://robocalpico.github.io"
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
