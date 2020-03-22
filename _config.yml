@@ -1,2 +1,4 @@
 name: Your New Jekyll Site
 highlighter: rouge
+
+theme: jekyll-theme-minimal
