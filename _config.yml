@@ -1,10 +1,10 @@
-title: Roboblog
-name: Roboblog
-description: Simple desc.
+title: readhop
+name: readhop
+description: Read, one hop at a time.
 github: [metadata]
 highlighter: rouge
 theme: jekyll-theme-slate
-url: "https://robocalpico.github.io"
+url: "https://readhop.com"
 plugins:
   - jekyll-sitemap
   - jekyll-feed
