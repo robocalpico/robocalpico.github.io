@@ -1,4 +1,8 @@
-name: Your New Jekyll Site
+title: Roboblog
+name: Roboblog
+description: Simple desc.
+github: [metadata]
 highlighter: rouge
-
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
