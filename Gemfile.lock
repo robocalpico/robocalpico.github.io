@@ -247,7 +247,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
-  minima
+  jekyll-theme-primer
 
 BUNDLED WITH
    2.1.4
