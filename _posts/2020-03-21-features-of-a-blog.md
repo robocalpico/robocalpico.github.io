@@ -14,11 +14,11 @@ It's 2020, a blog should have these.
 - [ ] integration with Twitter etc
 - [ ] word cloud
 - [ ] comments
-- [ ] SEO
 - [ ] share to social media
 - [ ] Google analytics
 - [ ] mobile friendly
-- [ ] favicon
+- [x] SEO
+- [x] favicon
 - [x] [sitemap]({{ site.url }}/sitemap.xml): Jekyll plugin, need to submit to search engine
 - [x] [feed]({{ site.url }}/feed.xml): Jekyll plugin, so RSS people can subscribe
 - [x] domain
