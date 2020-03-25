@@ -14,6 +14,7 @@ It's 2020, a blog should have these.
 - [ ] integration with Twitter etc
 - [ ] word cloud
 - [ ] comments
+- [ ] copyright statement
 - [ ] share to social media
 - [ ] Google analytics
 - [ ] mobile friendly
