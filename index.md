@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<ul class="post-list">
+<ul class="list-unstyled">
   {%- for post in site.posts -%}
   <li>
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

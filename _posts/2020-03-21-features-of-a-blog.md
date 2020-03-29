@@ -16,8 +16,8 @@ It's 2020, a blog should have these.
 - [ ] comments
 - [ ] copyright statement
 - [ ] share to social media
-- [ ] Google analytics
-- [ ] mobile friendly
+- [x] Google analytics
+- [x] mobile friendly
 - [x] SEO
 - [x] favicon
 - [x] [sitemap]({{ site.url }}/sitemap.xml): Jekyll plugin, need to submit to search engine
