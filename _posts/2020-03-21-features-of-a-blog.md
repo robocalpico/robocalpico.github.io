@@ -16,6 +16,8 @@ It's 2020, a blog should have these.
 - [ ] comments
 - [ ] copyright statement
 - [ ] share to social media
+- [ ] sticky header and footer
+- [x] previous/next/go back button
 - [x] Google analytics
 - [x] mobile friendly
 - [x] SEO
