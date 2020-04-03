@@ -55,7 +55,16 @@
   <!-- footer -->
   <footer class="footer">
     <div class="container">
-      <span class="text-muted">{{ site.title }} @ copyright pending</span>
+      <div class="row">
+        <div class="col">
+          <span class="text-muted">Copyright © 2020 {{ site.title }}</span>
+        </div>
+        <div class="col">
+          <p class="text-right"><a href="{{ site.baseurl }}/feed.xml">
+            <img style="width:20px;opacity: 0.5;" src="/assets/img/rss.svg" alt="feed">
+          </a></p>
+        </div>
+      </div>
     </div>
   </footer>
 

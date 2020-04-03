@@ -8,14 +8,18 @@ categories: Admin
 
 It's 2020, a blog should have these.
 
-- [ ] site status
 - [ ] mailing list
-- [ ] is it blocked
-- [ ] integration with Twitter etc
 - [ ] word cloud
+- [ ] site status
+- [ ] is it blocked
+- [ ] integrate with Twitter etc
 - [ ] comments
-- [ ] copyright statement
+- [ ] creative commons
+- [ ] 404 page
 - [ ] share to social media
+- [ ] about page with terms
+- [x] rss feed in footer
+- [x] copyright statement
 - [x] sticky header and footer
 - [x] previous/next/go back button
 - [x] Google analytics

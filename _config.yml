@@ -6,6 +6,8 @@ highlighter: rouge
 theme: jekyll-theme-primer
 url: "https://readhop.com"
 google_analytics: UA-158033435-1
+feed:
+  excerpt_only: true
 plugins:
   - jekyll-sitemap
   - jekyll-feed
