@@ -18,6 +18,7 @@ It's 2020, a blog should have these.
 - [ ] 404 page
 - [ ] share to social media
 - [ ] about page with terms
+- [ ] add tags per post
 - [x] rss feed in footer
 - [x] copyright statement
 - [x] sticky header and footer
