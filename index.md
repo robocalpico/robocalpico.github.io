@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<table class="table table-borderless table-sm table-fit">
+<table class="table table-sm table-fit">
 <tbody>
 {%- for post in site.posts -%}
 <tr>

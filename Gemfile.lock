@@ -251,7 +251,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-target-blank
-  jekyll-theme-primer
 
 BUNDLED WITH
    2.1.4
