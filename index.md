@@ -13,6 +13,11 @@ title: Home
     <a class="post-link" href="{{ post.url | relative_url }}">
       {{ post.title | escape }}
     </a>
+    {% if post.tags != empty %}
+        <span class="badge badge-warning text-wrap text-left">
+            {{ post.tags | array_to_sentence_string: "" }}
+        </span>
+    {% endif %}
   </td>
 </tr>
 {%- endfor -%}
