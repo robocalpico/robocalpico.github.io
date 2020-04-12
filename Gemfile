@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "github-pages"
   gem "jekyll-target-blank"
+  gem 'jekyll-compose'
 end
