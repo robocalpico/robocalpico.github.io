@@ -10,15 +10,15 @@ It's 2020, a blog should have these.
 
 - [ ] mailing list
 - [ ] word cloud
-- [ ] site status
 - [ ] is it blocked
 - [ ] integrate with Twitter etc
-- [ ] comments
 - [ ] creative commons
-- [ ] 404 page
+- [ ] comments
 - [ ] share to social media
-- [ ] about page with terms
-- [ ] add tags per post
+- [ ] tag filters
+- [ ] 404 page
+- [ ] site status
+- [x] about page
 - [x] rss feed in footer
 - [x] copyright statement
 - [x] sticky header and footer
