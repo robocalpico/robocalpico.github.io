@@ -17,7 +17,7 @@ It's 2020, a blog should have these.
 - [ ] share to social media
 - [ ] tag filters
 - [ ] 404 page
-- [ ] site status
+- [x] hit counter
 - [x] about page
 - [x] rss feed in footer
 - [x] copyright statement
