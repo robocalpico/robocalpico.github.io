@@ -17,7 +17,7 @@ It's 2020, a blog should have these.
 - [ ] tag filters
 - [ ] 404 page
 - [ ] comments
-- [ ] script to generate weekly posts
+- [x] script to generate weekly posts
 - [x] hit counter
 - [x] about page
 - [x] rss feed in footer
