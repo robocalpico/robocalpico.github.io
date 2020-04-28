@@ -14,8 +14,12 @@ blockquote p {
     opacity: 0.8;
 }
 
-h5 a:link {
+h6 a:link {
   text-decoration: underline;
+}
+
+p {
+ text-indent: 2em;
 }
 
 /* Sticky footer styles
