@@ -15,7 +15,7 @@ It's 2020, a blog should have these.
 - [ ] creative commons
 - [ ] share to social media
 - [ ] tag filters
-- [ ] 404 page
+- [x] 404 page
 - [x] comments
 - [x] script to generate weekly posts
 - [x] hit counter
