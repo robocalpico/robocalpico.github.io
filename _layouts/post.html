@@ -4,7 +4,8 @@ layout: default
 
 <div>
     <h1>{{ page.title }}</h1>
-    <small>{{ page.date | date: "%-d %B %Y" }}</small>
+    <small>{{ page.date | date: "%-d %B %Y" }}</small><br/>
+    <span class="badge badge-secondary" data-talk-id="{{page.id}}"></span>
     <ul class="list-inline">
         {%- for tag in page.tags -%}
         <li class="list-inline-item">
@@ -35,3 +36,18 @@ layout: default
   </ul>
 </nav>
 <a href="{{ site.url }}" role="button" class="btn btn-primary btn-block btn-sm">Back to home</a>
+
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 582;
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/count/"></script>
+
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 582; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>

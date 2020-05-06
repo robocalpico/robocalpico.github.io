@@ -16,7 +16,7 @@ It's 2020, a blog should have these.
 - [ ] share to social media
 - [ ] tag filters
 - [ ] 404 page
-- [ ] comments
+- [x] comments
 - [x] script to generate weekly posts
 - [x] hit counter
 - [x] about page
