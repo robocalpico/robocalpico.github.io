@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-target-blank"
   gem 'jekyll-compose'
+  gem 'jekyll-twitter-plugin'
 end

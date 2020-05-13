@@ -82,7 +82,7 @@ LEGO offers internally mini figure as business card for its employee. This is ac
 
 More Apple revenue, in charts. This growth of service revenue is just impressive, so consistent.
 
-Other reads:
+##### __Other reads__:
 - [Help for PRC students overseas; US-China truce?; Luckin blows up; Discourse power and propaganda struggle - sinocism](https://sinocism.com/p/help-for-prc-students-overseas-us)
 - [No cases in Wuhan; 20%+ unemployment?; Oil mess; Tech execs behaving badly - sinocism](https://sinocism.com/p/no-cases-in-wuhan-20-unemployment)
 - [Huawei employees sue company after police detention - ft](https://www.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2)
