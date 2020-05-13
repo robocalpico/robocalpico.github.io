@@ -49,7 +49,12 @@ There's another use of *chug* that people are more familiar with: chug a beer - 
 
 ###### __[CCP to Monitor Postings on Foreign Self-Media - chinascope](http://chinascope.org/archives/22972)__:
 
-{% twitter https://twitter.com/lianchaohan/status/1254028427281281024 %}
+<div class="jekyll-twitter-plugin">
+<blockquote class="twitter-tweet">
+<p lang="zh" dir="ltr">【中共言论控制公开延伸至海外】大陆网友传来的一个通知表明，中共将在海外自媒体推特、油管、脸书上实施大规模言论控制。下面这则通知将是实施控制的步骤之一。 <a href="https://t.co/4gUdgbmja6" target="_blank" rel="noopener noreferrer">pic.twitter.com/4gUdgbmja6</a></p>— 韩连潮 (@lianchaohan) <a href="https://twitter.com/lianchaohan/status/1254028427281281024?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer">April 25, 2020</a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 To understand why is to know that the purpose of social network platforms are not for social, but to represent.
 
