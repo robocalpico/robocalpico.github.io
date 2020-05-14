@@ -77,6 +77,8 @@ This is so weird, did people not care about sleep before? Why the shelter-in-pla
 
 ###### __[North Korea - All the dictator's men | DW Documentary - youtube](https://www.youtube.com/watch?v=JmqV2vIXpUY)__:
 
+{% include youtubeVideo.html id='JmqV2vIXpUY' %}
+
 外派到非洲俄罗斯去搞建设，这听着似曾相识。
 
 ##### __Other reads__:
