@@ -2,10 +2,12 @@
 layout: post
 title: Weekly Reading
 date: 2020-05-10 14:59 -0400
-tags: Zoom Apple housing Amazon Magic Tesla
-updated: 2020-05-13 13:26 -0400
+tags: Amazon Zoom Tesla Magic China N.Korea Apple 新裤子 COVID19 housing
+updated: 2020-05-14 17:45 -0400
 categories: Weekly
 ---
+
+<div class="article-entry" markdown="1">
 
 ###### __[Amazon Scooped Up Data From Its Own Sellers to Launch Competing Products - wsj](https://www.wsj.com/articles/amazon-scooped-up-data-from-its-own-sellers-to-launch-competing-products-11587650015)__:
 
@@ -13,17 +15,29 @@ categories: Weekly
 
 "__Siphon__ sales" here means stealing sales from sellers. The brilliant thing is its original meaning is 虹吸, which everyone learns in school that is [a technique to suck liquid thru tubes](https://en.wikipedia.org/wiki/Siphon). It’s used here metaphorically. It’s a pretty common usage, for example Civilization the game series describe of spy stealing gold (in-game currency) from rivals as ["siphon funds"](https://civ6.gamepedia.com/Missions#Siphon_Funds).
 
+</div>
+
+<div class="article-entry" markdown="1">
+
 ###### __[Apple Earnings, Amazon Earnings - stratechery](https://stratechery.com/2020/apple-earnings-amazon-earnings/)__:
 
 > I strongly suspect this is the case with Amazon: the demand for Amazon.com e-commerce at this point exceeds Amazon’s ability to fulfill it. As a personal anecdote, even while living abroad I have bought products from Amazon regularly — that’s how good the company’s logistics are. I haven’t been able to buy anything for months, though, because international customers were one of the first things to be axed in the face of the spike in demand. That’s in addition to the company closing its warehouses to third-party merchants for a month and delaying the delivery of non-essential orders; while the company has started both of those programs back up, the implication of the company’s forecast is that it knows its revenue will be constrained by its ability to meet demand, not demand itself.
 
 It is written like this is a good thing for Amazon. Not able to fulfill demand is bad regardless the root cause. It opens up opportunities for competitors too.
 
+</div>
+
+<div class="article-entry" markdown="1">
+
 ###### __[Elon Musk Isn’t Sure About Tesla Stock - bloomberg](https://www.bloomberg.com/opinion/articles/2020-05-04/elon-musk-isn-t-sure-about-tesla-stock)__:
 
 > Tesla Inc. is an electric car company, and you might own its stock if you think it is good at making and selling cars, or sell its stock short if you don’t. But it is also, to an unusual degree for a public company, a cult of personality organized around its chief executive officer, Elon Musk. If you are short Tesla’s stock, there is a good chance that you have a burning personal dislike for Musk and object to everything he does. And if you own Tesla’s stock, there is a good chance that you think Musk is a genius and a hero, and you would follow him anywhere.
 
 It talks about the stock of Tesla dived 10% immediately after its CEO Elon Musk tweeted “Tesla stock price is too high imo”. The whole piece is brilliant, full of shrewd observations delivered thru sarcasm.
+
+</div>
+
+<div class="article-entry" markdown="1">
 
 ###### __[Episode 609: The Curse Of The Black Lotus - npr](https://www.npr.org/sections/money/2018/12/26/679311116/episode-609-the-curse-of-the-black-lotus)__:
 
@@ -33,11 +47,19 @@ It talks about the stock of Tesla dived 10% immediately after its CEO Elon Musk 
 >
 > ELIAS: We heard from so many people that we were destroying the game back in 1994 and in '95, over and over again. Like, this is the end. You guys have screwed everything up, with much more colorful language.
 
+</div>
+
+<div class="article-entry" markdown="1">
+
 ###### __[Zoom’s “Genuine Oversight”, Zoom’s Strengths and Weaknesses, Virality Versus Network Effects - stratechery](https://stratechery.com/2020/zooms-genuine-oversight-zooms-strengths-and-weaknesses-virality-versus-network-effects/)__:
 
 > One of my favorite axioms about life — and it applies to both companies and individuals — is that strengths and weaknesses are often two sides of the same coin.
 
 Such a good way to put it. Zoom rises among all the loss making IPOs exactly because its [Chinese R&D arm costs much less than their US camaraderies](https://www.cnbc.com/2019/03/26/zoom-key-profit-driver-ahead-of-ipo-engineers-in-china.html). At same time, the lack of oversight draws out all the drama that usually only exists at consumer-facing companies like Facebook and Uber. You’d have thought enterprise-facing companies usually are more cautious about move fast and break things.
+
+</div>
+
+<div class="article-entry" markdown="1">
 
 ###### __[Why Home Prices Are Rising During the Pandemic - wsj](https://www.wsj.com/articles/why-home-prices-are-rising-during-the-pandemic-11588671002)__:
 
@@ -47,11 +69,19 @@ Such a good way to put it. Zoom rises among all the loss making IPOs exactly bec
 
 There's another use of *chug* that people are more familiar with: chug a beer - drinking a can of beer in one action without breathing. But people apparently can [chug](https://www.reddit.com/r/CasualConversation/comments/2xsjwh/i_just_chugged_a_cup_of_coffee_like_full_on/) [everything](https://www.reddit.com/r/AskReddit/comments/ncpss/has_anyone_ever_attempted_the_syrup_chug_from/), and there are people teach you how to [chug like a pro/bro](https://52brews.com/how-to-chug-beer-fast).
 
+</div>
+
+<div class="article-entry" markdown="1">
+
 ###### __[CCP to Monitor Postings on Foreign Self-Media - chinascope](http://chinascope.org/archives/22972)__:
 
-<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">【中共言论控制公开延伸至海外】大陆网友传来的一个通知表明，中共将在海外自媒体推特、油管、脸书上实施大规模言论控制。下面这则通知将是实施控制的步骤之一。 <a href="https://t.co/4gUdgbmja6">pic.twitter.com/4gUdgbmja6</a></p>&mdash; 韩连潮 (@lianchaohan) <a href="https://twitter.com/lianchaohan/status/1254028427281281024">April 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% twitter https://twitter.com/lianchaohan/status/1254028427281281024 %}
 
 To understand why is to know that the purpose of social network platforms are not for social, but to represent.
+
+</div>
+
+<div class="article-entry" markdown="1">
 
 ###### __[No Singin’ the Blues Here: Band Changes Lyrics for State TV - sixthtone](http://www.sixthtone.com/ht_news/1005599/no-singin-the-blues-here-band-changes-lyrics-for-state-tv)__:
 
@@ -59,11 +89,19 @@ To understand why is to know that the purpose of social network platforms are no
 
 乐队毕竟也要恰饭。新裤子这么多年默默创作也不容易，终于通过综艺节目收获了主流人气。从另一方面来说大张伟才是真正的明白人，很早就看到了结局，与其弯腰捡肥皂不如彻底下海泛娱乐，抛开正经就不用再跟假正经打交道。
 
+</div>
+
+<div class="article-entry" markdown="1">
+
 ###### __[Discretionary Spending Up Among Stimulus Payment Recipients - secondmeasure](https://secondmeasure.com/datapoints/stimulus-recipient-spending-by-industry/)__:
 
 > <img src="https://secondmeasure.com/wp-content/uploads/2020/05/stimulus-impact-charts-v2_Page_2-1024x547.png" class="img-fluid" alt="Stimulus Payment spending">
 
 This is so weird, did people not care about sleep before? Why the shelter-in-place order drives the mattress purchase?
+
+</div>
+
+<div class="article-entry" markdown="1">
 
 ###### __[The Quadrennial iPhone SE Schedule - daringfireball](https://daringfireball.net/2020/04/the_quadrennial_iphone_se_schedule)__:
 
@@ -73,13 +111,29 @@ This is so weird, did people not care about sleep before? Why the shelter-in-pla
 >
 >     iPhone XR        $600        $650        —
 >
->     iPhone SE        $400        $450        $550```
+>     iPhone SE        $400        $450        $550
+
+</div>
+
+<div class="article-entry" markdown="1">
 
 ###### __[North Korea - All the dictator's men | DW Documentary - youtube](https://www.youtube.com/watch?v=JmqV2vIXpUY)__:
 
 {% include youtubeVideo.html id='JmqV2vIXpUY' %}
 
 外派到非洲俄罗斯去搞建设，这听着似曾相识。
+
+</div>
+
+<div class="article-entry" markdown="1">
+
+###### __[Life in North Korea | DW Documentary - youtube](http://www.youtube.com/watch?v=StjIv33zJ9c)__:
+
+{% include youtubeVideo.html id='StjIv33zJ9c' %}
+
+生于服从，死于安乐，无论艰辛。从这里能看到多少相似，就会有多少震撼。
+
+</div>
 
 ##### __Other reads__:
 - [Similarities in design between Mario levels and LEGO sets - brickset](https://brickset.com/article/49785/similarities-in-design-between-mario-levels-and-lego-sets)
@@ -110,4 +164,3 @@ This is so weird, did people not care about sleep before? Why the shelter-in-pla
 - [Open thread - sinocism](https://sinocism.com/p/open-thread-2e5/comments)
 - [科技爱好者周刊：第 106 期 - ruanyifeng](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)
 - [The Mortgage Market Never Got Fixed After 2008. Now It’s Breaking Again. - wsj](https://www.wsj.com/articles/the-mortgage-market-never-got-fixed-after-2008-now-its-breaking-again-11588977078)
-
