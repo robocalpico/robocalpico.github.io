@@ -7,7 +7,7 @@ title: Home
 <tbody>
 {%- for post in site.posts -%}
 <tr>
-  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- assign date_format = site.minima.date_format | default: "%m/%d/%y" -%}
   <td><span class="post-meta">{{ post.date | date: date_format }}</span></td>
   <td>
     <a class="post-link" href="{{ post.url | relative_url }}">

@@ -7,7 +7,7 @@ updated: 2020-05-14 17:45 -0400
 categories: Weekly
 ---
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[Amazon Scooped Up Data From Its Own Sellers to Launch Competing Products - wsj](https://www.wsj.com/articles/amazon-scooped-up-data-from-its-own-sellers-to-launch-competing-products-11587650015)__:
 
@@ -17,7 +17,7 @@ categories: Weekly
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[Apple Earnings, Amazon Earnings - stratechery](https://stratechery.com/2020/apple-earnings-amazon-earnings/)__:
 
@@ -27,7 +27,7 @@ It is written like this is a good thing for Amazon. Not able to fulfill demand i
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[Elon Musk Isn’t Sure About Tesla Stock - bloomberg](https://www.bloomberg.com/opinion/articles/2020-05-04/elon-musk-isn-t-sure-about-tesla-stock)__:
 
@@ -37,7 +37,7 @@ It talks about the stock of Tesla dived 10% immediately after its CEO Elon Musk 
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[Episode 609: The Curse Of The Black Lotus - npr](https://www.npr.org/sections/money/2018/12/26/679311116/episode-609-the-curse-of-the-black-lotus)__:
 
@@ -49,7 +49,7 @@ It talks about the stock of Tesla dived 10% immediately after its CEO Elon Musk 
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[Zoom’s “Genuine Oversight”, Zoom’s Strengths and Weaknesses, Virality Versus Network Effects - stratechery](https://stratechery.com/2020/zooms-genuine-oversight-zooms-strengths-and-weaknesses-virality-versus-network-effects/)__:
 
@@ -59,7 +59,7 @@ Such a good way to put it. Zoom rises among all the loss making IPOs exactly bec
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[Why Home Prices Are Rising During the Pandemic - wsj](https://www.wsj.com/articles/why-home-prices-are-rising-during-the-pandemic-11588671002)__:
 
@@ -71,17 +71,17 @@ There's another use of *chug* that people are more familiar with: chug a beer - 
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[CCP to Monitor Postings on Foreign Self-Media - chinascope](http://chinascope.org/archives/22972)__:
 
-{% twitter https://twitter.com/lianchaohan/status/1254028427281281024 %}
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">【中共言论控制公开延伸至海外】大陆网友传来的一个通知表明，中共将在海外自媒体推特、油管、脸书上实施大规模言论控制。下面这则通知将是实施控制的步骤之一。 <a href="https://t.co/4gUdgbmja6">pic.twitter.com/4gUdgbmja6</a></p>&mdash; 韩连潮 (@lianchaohan) <a href="https://twitter.com/lianchaohan/status/1254028427281281024">April 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 To understand why is to know that the purpose of social network platforms are not for social, but to represent.
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[No Singin’ the Blues Here: Band Changes Lyrics for State TV - sixthtone](http://www.sixthtone.com/ht_news/1005599/no-singin-the-blues-here-band-changes-lyrics-for-state-tv)__:
 
@@ -91,17 +91,17 @@ To understand why is to know that the purpose of social network platforms are no
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[Discretionary Spending Up Among Stimulus Payment Recipients - secondmeasure](https://secondmeasure.com/datapoints/stimulus-recipient-spending-by-industry/)__:
 
-> <img src="https://secondmeasure.com/wp-content/uploads/2020/05/stimulus-impact-charts-v2_Page_2-1024x547.png" class="img-fluid" alt="Stimulus Payment spending">
+> {% include img.html url="https://secondmeasure.com/wp-content/uploads/2020/05/stimulus-impact-charts-v2_Page_2-1024x547.png" %}
 
 This is so weird, did people not care about sleep before? Why the shelter-in-place order drives the mattress purchase?
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[The Quadrennial iPhone SE Schedule - daringfireball](https://daringfireball.net/2020/04/the_quadrennial_iphone_se_schedule)__:
 
@@ -115,21 +115,21 @@ This is so weird, did people not care about sleep before? Why the shelter-in-pla
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[North Korea - All the dictator's men | DW Documentary - youtube](https://www.youtube.com/watch?v=JmqV2vIXpUY)__:
 
-{% include youtubeVideo.html id='JmqV2vIXpUY' %}
+{% include youtubeVid.html id='JmqV2vIXpUY' %}
 
 外派到非洲俄罗斯去搞建设，这听着似曾相识。
 
 </div>
 
-<div class="article-entry" markdown="1">
+<div class="bg-light article-entry" markdown="1">
 
 ###### __[Life in North Korea | DW Documentary - youtube](http://www.youtube.com/watch?v=StjIv33zJ9c)__:
 
-{% include youtubeVideo.html id='StjIv33zJ9c' %}
+{% include youtubeVid.html id='StjIv33zJ9c' %}
 
 生于服从，死于安乐，无论艰辛。从这里能看到多少相似，就会有多少震撼。
 
