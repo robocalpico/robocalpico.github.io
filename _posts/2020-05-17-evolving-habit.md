@@ -2,6 +2,7 @@
 layout: post
 title: Evolving habit
 date: 2020-05-17 15:20 -0400
+updated: 2020-05-23 21:49 -0400
 categories: Posts
 ---
 
@@ -11,4 +12,4 @@ So I plan to read less, and with a little bit more thinking. Books are fine but 
 
 A good way to stabilize any behavior is to establish a structure, and over the time have it develop into a habit. Although in this case it is to evolve a habit that already exists.
 
-To put these into action is what this site is about. I keep track of what I read and comment on, and compile them into the series of `Weekly reading` to keep tabs on my reading. `readhop` is just a reference of how one hops from one article to another. Over time I hope my reading pattern become more in shape and clear.
+To put these into action is what this site is about. I keep track of what I read and comment on, and compile them into the series of `Weekly reading` to keep tabs on my reading. Occasionally I might write posts too, and some other stuff just to explore. Over time I hope my reading pattern become more in shape and clear, and constructs some sort of feedback loop.
