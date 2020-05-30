@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly reading
+title: Weekly reading 7
 date: 2020-05-10 14:59 -0400
 tags: Amazon Zoom Tesla Magic China N.Korea Apple 新裤子 COVID19 housing
 updated: 2020-05-14 17:45 -0400

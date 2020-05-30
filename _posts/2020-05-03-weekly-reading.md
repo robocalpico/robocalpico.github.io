@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly reading
+title: Weekly reading 6
 date: 2020-05-03 21:08 -0400
 tags: Apple Google uber sweetgreen finance FB covid19
 categories: Weekly

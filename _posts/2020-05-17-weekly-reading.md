@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly reading
+title: Weekly reading 8
 date: 2020-05-17 10:20 -0400
 tags: RSS Tencent Uber China Lego Apple COVID19 Android
 categories: Weekly
