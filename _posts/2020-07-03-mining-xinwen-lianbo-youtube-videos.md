@@ -22,35 +22,35 @@ The thing that interests me the most, is how frequent the program mentions their
 
 A simple string comparison shows that between January 2019 and June 2020, **81.18%** of time the program mentions the name of the supreme leader in the title. It roughly translates to **6 days a week**. I then further break down the count to each  month:
 
-<img src="{{ "/assets/img/yt_cctv/xi_mention_by_month.png" | relative_url }}" class="img-fluid" alt="Xi mentions by month">
+<figure><img src="{{ "/assets/img/yt_cctv/xi_mention_by_month.png" | relative_url }}" class="img-fluid" alt="Xi mentions by month"></figure>
 
 Visually the mentions per month suddenly surged at June 2019, and stayed at the higher level than previous since then. Looking thru the titles didn’t give me clear ideas of why.
 
 Then I take a look at how frequent some common topics are mentioned:
 
-<img src="{{ "/assets/img/yt_cctv/common_topics.png" | relative_url }}" class="img-fluid" alt="Common topics">
+<figure><img src="{{ "/assets/img/yt_cctv/common_topics.png" | relative_url }}" class="img-fluid" alt="Common topics"></figure>
 
 So ‘政治’ (politics) and ‘经济’ (economy) seem to be the major topics, and also the two things that matter the most? Wonder how headlines of other news media compare to it.
 
 I also try to count the mentions of common actions or generic events:
 
-<img src="{{ "/assets/img/yt_cctv/common_actions.png" | relative_url }}" class="img-fluid" alt="Common actions">
+<figure><img src="{{ "/assets/img/yt_cctv/common_actions.png" | relative_url }}" class="img-fluid" alt="Common actions"></figure>
 
-The top 3 most frequent actions (host, hold, speak) all relates to having meetings. I guess that speaks of the nature of XWLB: it is about communicating all the meetings that higher leaders have to their people. On the other hand, ‘meeting’ (会见) someone is much higher than ‘visit’ (访问) someone. Does it indicate the increasing influence of Xi globally as more people come to meet him instead the other way around? Again maybe more older data allows us to look into more.
+The top 3 most frequent actions (host, hold, speak) all relates to having meetings. I guess that speaks of the nature of Xinwen: it is about communicating all the meetings that higher leaders have to their people. On the other hand, ‘meeting’ (会见) someone is much higher than ‘visit’ (访问) someone. Does it indicate the increasing influence of Xi globally as more people come to meet him instead the other way around? Again maybe more older data allows us to look into more.
 
 Finally a quick peek on view and comment stat. On average, one single episode gets **41k** views, although this number should only increase over time. Here are the top ranked of most viewed ones:
 
-<img src="{{ "/assets/img/yt_cctv/top_watched.png" | relative_url }}" class="img-fluid" alt="Common actions">
+<figure><img src="{{ "/assets/img/yt_cctv/top_watched.png" | relative_url }}" class="img-fluid" alt="Common actions"></figure>
 
 **150k** views is not impressive at all by Youtube standard ([this Chinese reality show episode](https://www.youtube.com/watch?v=Vn-NLEdsylw) uploaded 1 month ago gets 1M view). These top watched are all big events: the funeral of a prominent political figure, the celebration of 70th anniversary, Xi visiting Russia and NK, and the 70th anniversary parade. Why a funeral triumphs the big 70th anniversary? It certainly came out 3 months earlier, but this might be something you can explore.
 
 CCTV always disables the comment option for Xinwen videos, but surprisingly, 4 among 484 videos have comments:
 
-<img src="{{ "/assets/img/yt_cctv/comment_episodes.png" | relative_url }}" class="img-fluid" alt="Comment episodes">
+<figure><img src="{{ "/assets/img/yt_cctv/comment_episodes.png" | relative_url }}" class="img-fluid" alt="Comment episodes"></figure>
 
 They don’t look like correlate with each other, so it might just be that whoever uploaded the video being careless and forgot to turn off comments? Anyway, it definitely got audience excited, most of whom left comments of being proud or happy of seeing China rising as a strong power in the world:
 
-<img src="{{ "/assets/img/yt_cctv/comment_screenshot.png" | relative_url }}" class="img-fluid" alt="Comment screenshot">
+<figure><img src="{{ "/assets/img/yt_cctv/comment_screenshot.png" | relative_url }}" class="img-fluid" alt="Comment screenshot"></figure>
 
 I hope the third user Chandler Bing won't be disappointed when he/she know the fact that enabling comments on Xinwen videos might be just an unfortunate accident.
 
