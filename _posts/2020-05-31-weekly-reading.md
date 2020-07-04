@@ -5,8 +5,6 @@ date: 2020-05-31 13:54 -0400
 tags: HK Youtube COVID19
 ---
 
-<div class="bg-light article-entry" markdown="1">
-
 ###### __[The Job Market’s Long Road Back - wsj](https://www.wsj.com/articles/the-job-markets-long-road-back-11590206400)__:
 
 > The vast majority of people laid off this spring assumed they’d be back at their jobs fairly soon. It is becoming more clear now that for many, that was wishful thinking.
@@ -17,17 +15,9 @@ Look no further than China, who is one step ahead of U.S. They [revoked](http://
 
 > 记者从成都市城管委了解到，截至5月28日，成都市设置临时占道摊点、摊区2230个，允许临时越门经营点位17147个，允许流动商贩经营点20130个，增加就业人数10万人以上，中心城区餐饮店铺复工率超过98%。
 
-</div>
-
-<div class="bg-light article-entry" markdown="1">
-
 ###### __[Platforms in an Aggregator World - stratechery](https://stratechery.com/2020/platforms-in-an-aggregator-world/)__:
 
 I thought it is about cloud as a platform in the aggregator world, in which I am [more and more interested](https://readhop.com/posts/2020/05/24/up-in-the-cloud.html) now, but it isn't.
-
-</div>
-
-<div class="bg-light article-entry" markdown="1">
 
 ###### __[Twitter and Trump, YouTube and China, Facebook and Polarization - stratechery](https://stratechery.com/2020/twitter-and-trump-youtube-and-china-facebook-and-polarization/)__:
 
@@ -35,23 +25,13 @@ I thought it is about cloud as a platform in the aggregator world, in which I am
 
 Here is [the original news](https://www.theverge.com/2020/5/26/21270290/youtube-deleting-comments-censorship-chinese-communist-party-ccp). Every popular system is expected to be exploited so the news itself isn't any surprising. What is a bit more alarming is how strong the will of CCP to bend people's perception by whatever it takes, under the rug.
 
-</div>
-
-<div class="bg-light article-entry" markdown="1">
-
 ###### __[如何看待5月22日港股暴跌？ - zhihu](https://www.zhihu.com/question/396525716/answer/1243200495)__:
 
 Wolf warrior alert.
 
-</div>
-
-<div class="bg-light article-entry" markdown="1">
-
 ###### __[US says Hong Kong no longer has high degree of autonomy; Meng Wanzhou case to continue; India-China border tensions - sinocism](https://sinocism.com/p/us-says-hong-kong-no-longer-has-high)__:
 
 What else way do you expect U.S. to respond? Although the [Trump's announcement later in Friday](https://sinocism.com/p/president-trumps-china-carnage-statement) doesn't make too much of a dent on anyone.
-
-</div>
 
 ##### __Other reads__:
 - [Hong Kong; US-China; India-China border tensions; Hangzhou official confirms drinking baijiu is unhealthy - sinocism](https://sinocism.com/p/hong-kong-us-china-india-china-border)

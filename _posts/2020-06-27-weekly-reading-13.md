@@ -6,8 +6,6 @@ categories: Weekly
 tags: China Apple
 ---
 
-<div class="bg-light article-entry" markdown="1">
-
 ###### __[Hong Kong National Security Law by July 1?; Beijing outbreak; EU-China summit; Xinjiang - sinocism](https://sinocism.com/p/hong-kong-national-security-law-by)__:
 
 > The South China Morning Post summarizes the key points we know from this weekend’s announcement:
@@ -28,19 +26,11 @@ tags: China Apple
 
 This is surreal - for HK gov not only gives up independent governing power just like that, but also becomes the hitman that does the dirty work. It fits 被卖了还帮别人数钱. If you are at the bottom of a top-down structure, of course you gonna suck it and say it’s tasty. Welcome HK to join us; it’s fun.
 
-</div>
-
-<div class="bg-light article-entry" markdown="1">
-
 ###### __[“希望地方干部改变对国家安全‘没有责任感’的盲目性”：山东合村并居旋涡](https://news.sina.cn/gn/2020-06-10/detail-iirczymk6239170.d.html)__:
 
 > 牛角店镇党委副书记姜渭柱在接受《中国新闻周刊》采访时说，乡村振兴工程是“让农民从土地上解放出来”。
 
 当年翻身就是靠“打土豪，分田地”。现在这个口号让人恍若隔世。
-
-</div>
-
-<div class="bg-light article-entry" markdown="1">
 
 ###### __[农家女23年前疑遭两次顶替上大学，班主任：我让女儿顶替了你，求原谅 - qq](https://view.inews.qq.com/a/20200624A05EY500)__:
 
@@ -52,19 +42,11 @@ This is surreal - for HK gov not only gives up independent governing power just 
 
 毁掉了别人的一生，居然想带着桃子和一点钱就和解了。
 
-</div>
-
-<div class="bg-light article-entry" markdown="1">
-
 ###### __[科技爱好者周刊（第 113 期）：暴力犯罪为什么越来越少？ - ruanyifeng](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)__:
 
 > 综合上面这些因素，我认为，技术进步造成了暴力犯罪的减少。"莫伸手，伸手必被抓"，已经不是宣传口号了，而是技术进步的必然结果。
 
 这就是带着事先做好的假设去看问题的结果。技术进步当然帮助犯罪减少，但不是决定性因素。没有数据支撑的结论都站不住脚的。
-
-</div>
-
-<div class="bg-light article-entry" markdown="1">
 
 ###### __[What the National People's Congress tells us about the challenges facing China - sinocism](https://sinocism.com/p/what-the-national-peoples-congress)__:
 
@@ -72,9 +54,6 @@ This is surreal - for HK gov not only gives up independent governing power just 
 
 Two things are particularly concerning. First is the removal of opposing candidates, which can immediately dismantle whatever differentiates HK from any other cities in China; Second is the national education, which can destroy whatever HK could have had in the future.
 
-</div>
-
-<div class="bg-light article-entry" markdown="1">
 
 ###### __[Macs with Apple silicon will get new, refined boot and recovery mode - sixcolors](https://sixcolors.com/post/2020/06/macs-with-apple-silicon-will-get-new-refined-boot-and-recovery-mode/)__:
 
@@ -82,9 +61,6 @@ Two things are particularly concerning. First is the removal of opposing candida
 
 The thing is Apple built the “superior” UX perception so strong and Apple devices are so popular, that people like me easily forgot about the many inconveniences (subtle or another) in its systems, like this one.
 
-</div>
-
-<div class="bg-light article-entry" markdown="1">
 
 ###### __[Apple’s new App Clips: Tiny apps you run with a tap - sixcolors](https://sixcolors.com/post/2020/06/apples-new-app-clips-tiny-apps-you-run-with-a-tap/)__:
 
@@ -92,7 +68,6 @@ The thing is Apple built the “superior” UX perception so strong and Apple de
 
 Quite a blatant copy of [WeChat mini programs](https://mp.weixin.qq.com/cgi-bin/wx). So is the [UI overhaul over Android](https://www.extremetech.com/mobile/311944-apple-gives-ios-14-home-screen-an-android-inspired-makeover). Apple  has been like this for quite sometime with many examples like [the nightshift feature over f.lux](https://www.imore.com/night-shift-vs-flux-whats-difference). This is no different from [Amazon pushing its own brands](https://en.wikipedia.org/wiki/List_of_Amazon_brands#:~:text=Amazon%20offers%20multiple%20store%20brands,is%20separate%20from%20exclusive%20brands.) over similar commodities sold on Amazon. Obviously whatever Apple copies turns out to be better than the originals, given its resource and the advantage of having OS-level integration. Amazon is being [exposed for its anti-competitive copying effort](https://www.wsj.com/articles/amazon-scooped-up-data-from-its-own-sellers-to-launch-competing-products-11587650015), wonder when or if Apple would be picked for the same at all?
 
-</div>
 
 ##### __Other reads__:
 - [Unsubscribe: The $0-budget movie that ‘topped the US box office’ - bbc](https://www.bbc.com/news/world-us-canada-53099283)
