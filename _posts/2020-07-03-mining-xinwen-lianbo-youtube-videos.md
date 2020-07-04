@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mining Xinwen Lianbo Youtube videos
+title: Mining Xinwen Lianbo Youtube video titles
 tags: cctv youtube
 date: 2020-07-03 15:28 -0400
 categories: Posts
