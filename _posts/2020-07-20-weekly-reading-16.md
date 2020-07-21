@@ -5,6 +5,7 @@ tags: IPO China HK
 categories: Weekly
 date: 2020-07-20 21:53 -0400
 ---
+
 ###### __[數十萬人投票的民主派初選，選民、票站義工，他們在想什麼？ - theinitium](https://theinitium.com/article/20200712-whatsnew-hongkong-democrats-primaries/)__:
 
 > 有可能違反港區國安法、籌備單位被警方上門調查，在恐慌與打壓之下，香港民主派初選首日，投票人數已破紀錄，至今錄得逾41.2萬人投票。「投誰都不重要，唯一重要的是展現民意。」
