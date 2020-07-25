@@ -31,7 +31,7 @@ Some of them are rioters for sure, but others are truly courageous to throw them
 
 ###### __[Arrested Hong Kong protesters: how the numbers look one year on - scmp](https://multimedia.scmp.com/infographics/news/hong-kong/article/3088009/one-year-protest/index.html?src=social)__:
 
-> Hong Kong police made 8,981 arrests between June 9, 2019, and May 29, 2020, in connection with the protests. Among those arrested, 1,707 were under 18 years of age, including 1,602 secondary students and eight primary school pupils. Another 5,640 arrestees were aged between 18 and 30 years old. Here is where they stand.
+> Hong Kong police made 8,981 arrests beween June 9, 2019, and May 29, 2020, in connection with the protests. Among those arrested, 1,707 were under 18 years of age, including 1,602 secondary students and eight primary school pupils. Another 5,640 arrestees were aged between 18 and 30 years old. Here is where they stand.
 
 I am sure there are rioters among this 9k arrests, and among the millions of protestors in HK. They vandalize stations, destroy shops and beat down cops and others. However, the others, quite many more, are peaceful protestors. Just like how looters/rioters and peaceful protestors in the black lives matter protest are 2 total different groups.
 
@@ -41,7 +41,7 @@ I am sure there are rioters among this 9k arrests, and among the millions of pro
 
 Gone are the days when US company were still tough enough to [say no](https://en.wikipedia.org/wiki/Google_China).
 
-I am sure executives at Google, in many nights, are banging their heads to the wall, thinking how big of a market they gave up when they quitted China (and they surely are [trying to go back in](https://en.wikipedia.org/wiki/Dragonfly_(search_engine))!); but that moment, when they say fuck it, with full of impulsiveness, naiveness of “don’t be evil” and even arrogance, are forever remembered as the shiny jewelry on the crown that is the entrepreneurship from the land of the free.
+I am sure executives at Google, in many nights, are banging their heads to the wall, thinking how big of a market they gave up when they quitted China (and they surely are [trying to go back in](https://en.wikipedia.org/wiki/Dragonfly_(search_engine))!); but that moment, when they say fuck it, with full of impulsiveness, naiveness of “don’t be evil” and even arrogance, are forever remembered as the shiny jewelry on the crown that is the entrepreneurship from the land of the free.
 
 ###### __[Day Traders Might Have Fun Saving Hertz From Bankruptcy - bloomberg](https://www.bloomberg.com/opinion/articles/2020-06-12/if-you-want-hertz-have-some-hertz)__:
 
