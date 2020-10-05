@@ -6,7 +6,7 @@ categories: Weekly
 tags: Apple Microsoft Google Amazon
 ---
 
-Since September 12th I’ve dropped the ball for a while. The usual weekly post should be back soon. Also, I’ve added [a substack site](https://readhop.substack.com/p/coming-soon) and will cross-post same content there, Substack is a publishing platform with a better email delivery experience. Sign-up there if you want to get the post delivered directly to your inbox.
+Since September 12th I’ve dropped the ball for a while. The usual weekly post should be back soon. Also, I’ve added [a substack site](https://readhop.substack.com/) and will cross-post same content there, Substack is a publishing platform with a better email delivery experience. Sign-up there if you want to get the post delivered directly to your inbox.
 
 Before we wrap up there are 2 pieces of posts I find worth mentioning. The first is one about the new Apple Watch 6 series release, in which the author highlights [how Apple is building a health platform](https://www.aboveavalon.com/notes/2020/9/30/apple-watch-momentum-is-building):
 
