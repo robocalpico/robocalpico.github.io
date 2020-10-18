@@ -6,7 +6,7 @@ tags: China DC/EP Glassdoor
 categories: Weekly
 ---
 
-Somehow nearly all comments are around topics about China, so I name accordingly.
+Somehow nearly all comments are around topics about China, so I name accordingly. As usual this post was [cross-post at substack](https://readhop.substack.com/p/weekly-reading-23-a-few-things-about) too. Go there for fancy and easier email subscription.
 
 ###### __[科技爱好者周刊（第 127 期）：未来人人开发软件，几乎没人编码 - ruanyifeng](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)__:
 
@@ -48,7 +48,9 @@ I’d imagine people in western countries would protest and fight for freedom if
 ###### __[A warning for Taiwan; Xinjiang; NBA’s China troubles may be over soon - sinocism](https://sinocism.com/p/a-warning-for-taiwan-xinjiang-nbas)__:
 
 > As part of the campaign this week to expose alleged Taiwan spies, the Thursday People's Daily carried a harsh commentary on page 7 - "On the right side of history-Letter to Taiwan Intelligence and Security Agencies [站在历史正确的一边——告台湾情治部门书 - 安 平](http://paper.people.com.cn/rmrb/html/2020-10/15/nw.D110000renmrb_20201015_3-07.htm)".
+>
 > […]
+>
 > The commentary included a rarely used in the People’s Daily phrase that means “don’t say I didn’t warn you 勿谓言之不预也” (wu4 wei4 yan2 zhi1 bu4 yu4 ye3) The specific wording was used in editorials (社论) by the paper in 1962 before China went to war with India and before China invaded Vietnam in 1979, as well as a few dozen times over the decades in other pieces that were not editorials (社论).
 >
 > It was used last year in a commentary by 五月荷 during the height of the US-China trade war, as discussed in the [May 29, 2019 Sinocism](https://sinocism.com/p/rare-earths-dont-say-i-didnt-warn-cef). It now seems to be a bit devalued in terms of potentially signaling imminent conflict, especially if it appears in something that is not a People's Daily editorial 社论, the most authoritative editorial statement the People’s Daily makes.
