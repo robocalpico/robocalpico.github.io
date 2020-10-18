@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weekly reading 22: a few things about China'
+title: 'Weekly reading 23: a few things about China'
 date: 2020-10-18 09:14 -0700
 tags: China DC/EP Glassdoor
 categories: Weekly
