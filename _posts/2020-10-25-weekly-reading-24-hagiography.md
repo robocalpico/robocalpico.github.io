@@ -55,3 +55,4 @@ The current Apple CEO Tim Cook is [known to be the supply chain guy](https://www
 - [Pure Programming - gazzini](https://gazzini.com/essays/posts/pp/)
 - [科技爱好者周刊（第 130 期）：低龄化的互联网 - ruanyifeng](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)
 - [市发展改革委集中观看纪录片《奋进新时代》_图片新闻_天津市发展和改革委员会](http://fzgg.tj.gov.cn/xxfb/xwxx/tpxw/202009/t20200910_3652368.html)
+- [幼儿园已经开始内卷了 - weixin](https://mp.weixin.qq.com/s?__biz=MzAxOTMxNTUxNw==&mid=2651223120&idx=1&sn=0a6c7f3f4b084014acae273e4b813254)
