@@ -6,7 +6,7 @@ tags: Hagiography China iPhone
 ---
 
 
-It's a short week, but I learned a new word this week and make it the title.
+It's a short week, but I learned a new word this week and make it the title. This post is also crossposted at [my substack site](https://readhop.substack.com/p/weekly-reading-24-hagiography), where you can subscribe every new post through email.
 
 ###### __[Standing committee meeting; Taiwan; Poverty alleviation; Xi Jinping hagiography - sinocism](https://sinocism.com/p/standing-committee-meeting-taiwan)__:
 
