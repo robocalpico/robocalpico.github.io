@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<p>Reading is really just hoping across all the posts and links. This is the weekly summary of my hops. Sometimes I write essays too. Views are my own.</p>
+<p>Reading is really just hoping across all the posts and links. This is the weekly summary of my hops. Sometimes I write essays too. Views are my own. Posts are slowly and gradually crossposted at [my substack site](https://readhop.substack.com/) too, where you get better email subscription experience.</p>
 
 <p><a href="{{ site.baseurl }}/feed.xml">Subscribe through RSS feed</a></p>
 
