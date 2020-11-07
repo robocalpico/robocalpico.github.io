@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Home
+title: Weekly Reading Archive
 ---
 
-This is a list of posts. For now you can find the old weekly readings [here]({{ site.baseurl }}{% link weekly.md %}).
+This is a list of archived weekly posts. [Go back to home]({{ site.baseurl }}{% link index.md %}).
 
 <table class="table table-sm table-fit">
 <tbody>
-{% assign filtered-posts = site.posts | where: "categories", "Posts" %}
+{% assign filtered-posts = site.posts | where: "categories", "Weekly" %}
 {%- for post in filtered-posts -%}
 <tr>
   {%- assign date_format = site.minima.date_format | default: "%m/%d/%y" -%}

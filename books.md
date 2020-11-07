@@ -3,7 +3,7 @@ layout: default
 title: Books
 ---
 
-In addition to hopping among articles, here is a list of books I read.
+Here is a list of books I read.
 
 <table class="table table-sm">
   <thead>
