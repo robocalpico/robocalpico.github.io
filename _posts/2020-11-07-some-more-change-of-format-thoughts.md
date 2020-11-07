@@ -5,7 +5,7 @@ date: 2020-11-07 09:55 -0800
 categories: Posts
 tags: housekeeping
 ---
-It has been over 2 months since last time of my format change, and I have some more thoughts. My initial purpose is just to document what I have read, and thoughts if any. Making them standalone posts deviates from that. Now it's more like I am writing essays for public reading. So the first thing is to get rid of weekly reading essay format; instead, I am gonna post just a list of articles I read each week, with some stats. Some would still come with my comments, but I will decrease their visibility so that they don't become the focus. Again, my primary motivation is to document my reading, not writing essays.
+It has been over 2 months since last time of my format change, and I have some more thoughts. My initial purpose is just to document what I have read, and thoughts if any. Making them standalone posts deviates from that. Now it's more like I am writing essays for public reading. So the first thing is to get rid of weekly reading essay format; instead, I am gonna post just a list of articles I read each week, with some stats. Some would still come with my comments, but I will decrease their visibility so that they don't become the focus. Again, my primary motivation is to document my reading, not writing essays about it.
 
 Now in addition to that change, I will still write essays. One cannot only consume without producing anything, so essays would be more like aggregated thoughts from me, consolidated and distilled from my reading. They can also be not from my reading too, as there isn't hard limit on that. Naturally essays would come a lot less frequent.
 
