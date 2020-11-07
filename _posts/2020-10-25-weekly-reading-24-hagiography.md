@@ -2,6 +2,7 @@
 layout: post
 title: 'Weekly reading 24: Hagiography'
 date: 2020-10-25 07:52 -0700
+categories: Weekly
 tags: Hagiography China iPhone
 ---
 

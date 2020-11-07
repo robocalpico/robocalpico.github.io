@@ -2,7 +2,8 @@
 layout: post
 title: A change of format
 date: 2020-08-23 09:46 -0700
-categories: Admin
+categories: Posts
+tags: housekeeping
 ---
 
 Lately I have been thinking about the format of this blog. The weekly post was meant to be my reading summary, and tends to be loose and unstructured both visually and logically. It reflects of my reading behavior and thought process too. Also, at times I find there's a few articles intertwine with each other in one post and can be combined into one bigger topic.

@@ -3,7 +3,8 @@ layout:  post
 title:   "Features of a blog"
 date:    2020-03-21 20:20:13
 updated: 2020-06-22 16:16:00
-categories: Admin
+categories: Posts
+tags: housekeeping
 ---
 
 It's 2020, a blog should have these.

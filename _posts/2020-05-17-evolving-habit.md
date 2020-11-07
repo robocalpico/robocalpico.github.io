@@ -4,6 +4,7 @@ title: Evolving habit
 date: 2020-05-17 15:20 -0400
 updated: 2020-05-23 21:49 -0400
 categories: Posts
+tags: housekeeping
 ---
 
 I read a fair amount each week, split about 50/50 on books and news/blogs. What I found is there’s just too much news, blogs and random posts. One never has time to read and comprehend all. Especially that they are short(er than books) meaning usually don’t need to go deep but requires constant context switching. To read nonstop without proper control ends up me feeling like didn’t read anything at all: reading becomes as mindless indulging as reading social feeds. Reading is supposed to be thought-provoking, or at least convey some sort of knowledge.
