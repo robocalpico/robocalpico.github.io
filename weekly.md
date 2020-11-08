@@ -3,7 +3,11 @@ layout: default
 title: Weekly Reading Archive
 ---
 
-This is a list of archived weekly posts. [Go back to home]({{ site.baseurl }}{% link index.md %}).
+## Archive
+
+<p class="noindent">
+This is a list of archived weekly posts. <a href="{{ site.baseurl }}{% link index.md %}">Go back to home</a>.
+</p>
 
 <table class="table table-sm table-fit">
 <tbody>

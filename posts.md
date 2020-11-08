@@ -3,7 +3,9 @@ layout: default
 title: Posts
 ---
 
-Sometimes I write posts and put them here. For now you can find the old weekly readings [here]({{ site.baseurl }}{% link weekly.md %}).
+## Posts
+
+<p class="noindent">Sometimes I write posts too.</p>
 
 <table class="table table-sm table-fit">
 <tbody>
@@ -26,3 +28,5 @@ Sometimes I write posts and put them here. For now you can find the old weekly r
 {%- endfor -%}
 </tbody>
 </table>
+
+<p class="noindent">You can also find the old weekly readings <a href="{{ site.baseurl }}{% link weekly.md %}">here</a>.</p>

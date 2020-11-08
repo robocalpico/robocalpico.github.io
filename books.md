@@ -3,7 +3,9 @@ layout: default
 title: Books
 ---
 
-Here is a list of books I read.
+## Books
+
+<p class="noindent">Here is a list of books I read.</p>
 
 <table class="table table-sm">
   <thead>
