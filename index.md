@@ -3,7 +3,20 @@ layout: default
 title: Home
 ---
 
-Latest update: {{ site.data.stats.weekly_count }} articles read during the week {{ site.data.stats.week_no }} ends on {{ site.data.stats.last_end }}.
+<!-- <div class="container my-2">
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Last update</h5>
+    <p class="card-text" style="text-indent: 0em;">
+      {{ site.data.stats.weekly_count }} articles read during the week {{ site.data.stats.week_no }} ends on {{ site.data.stats.last_end }}.
+    </p>
+  </div>
+</div>
+</div> -->
+
+<div class="alert alert-primary" role="alert">
+  Latest update: <b>{{ site.data.stats.weekly_count }}</b> articles read during the <b>week {{ site.data.stats.week_no }}</b> ends on <b>{{ site.data.stats.last_end }}</b>.
+</div>
 
 <table class="table table-sm">
   <thead class="thead-dark">
