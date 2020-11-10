@@ -19,9 +19,11 @@ title: Posts
       {{ post.title | escape }}
     </a>
     {% if post.tags != empty %}
-        <span class="badge badge-warning text-wrap text-left">
-            {{ post.tags | array_to_sentence_string: "" }}
+      {%- for tag in post.tags -%}
+        <span class="badge badge-pill badge-warning text-wrap text-left">
+           {{ tag }}
         </span>
+      {%- endfor -%}
     {% endif %}
   </td>
 </tr>

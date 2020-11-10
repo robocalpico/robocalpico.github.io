@@ -3,7 +3,7 @@ layout: post
 title: 'Excerpts from the book "How the Red Sun Rose": news and propaganda'
 date: 2020-11-08 16:28 -0800
 categories: Posts
-tags: 红太阳是怎样升起的 高华 China mao propaganda
+tags: 红太阳是怎样升起的 高华 China mao propaganda GaoHua
 ---
 I have been reading a fascinating book called [_How the Red Sun Rose_](https://www.goodreads.com/book/show/29055636) ([English version](https://www.goodreads.com/book/show/32904035-how-the-red-sun-rose)). The author is Gao Hua, a well-known professor specialized in modern history of China. The book details the [Yan’an Rectification Movement (1942-1945)](https://en.wikipedia.org/wiki/Yan%27an_Rectification_Movement). Following are some excerpts from the book on the topic of **news and propaganda**.
 
