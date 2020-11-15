@@ -11,7 +11,7 @@ I have been reading a fascinating book called [_How the Red Sun Rose_](https://w
 
 --------
 
-Again, Mao theorized the view the party and its members should hold towards literature and art, just like what he did for news and propaganda. 第九章列出了毛氏文化观的五个核心概念：
+Again, Mao theorized the view the party and its members should hold towards literature and art, just like what [he did for news and propaganda]({% post_url 2020-11-08-excerpts-from-the-book-how-the-red-sun-rose-news-and-propaganda %}). 第九章列出了毛氏文化观的五个核心概念：
 
 > 一、文艺是政治斗争的工具，革命文艺的最高目标和最重要的任务就是利用文艺的各种形式为党的政治目标服务。[…]
 >
