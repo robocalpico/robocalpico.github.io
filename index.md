@@ -8,7 +8,7 @@ title: Home
 <p class="noindent">Here I keep a record of what I have read over time.</p>
 
 <div class="alert alert-primary" role="alert">
-  Latest update: <b>{{ site.data.stats.weekly_count }}</b> articles read during the <b>week {{ site.data.stats.week_no }}</b> ends on <b>{{ site.data.stats.last_end }}</b>.
+  Latest update: <b>{{ site.data.stats.weekly_count }}</b> articles from <b>{{ site.data.stats.weekly_sources }}</b> sources read during the <b>week {{ site.data.stats.week_no }}</b> ends on <b>{{ site.data.stats.last_end }}</b>.
 </div>
 
 <table class="table table-sm">
