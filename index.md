@@ -19,6 +19,193 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652426105&idx=1&sn=61413e27e9020bbf8eb459fb116d705f" target="_blank" rel="noopener noreferrer">基层治理“积分制”试验：举报违法犯罪加分，越级上访扣分</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> authoritative state</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/fifth-plenum-communique-small-reprieve" target="_blank" rel="noopener noreferrer">Fifth Plenum communique; Small reprieve for Huawei; US-China; RIP Cecilia Chiang</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 134 期）：未来的游戏业比现在大100倍</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/54735" target="_blank" rel="noopener noreferrer">Direct-to-consumer sets</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> analysis</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> D2C</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://secondmeasure.com/datapoints/wine-subscription-companies-see-sales-pour-in-during-holidays/" target="_blank" rel="noopener noreferrer">Wine Subscription Companies See Sales Pour in During the Holidays</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">secondmeasure</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">wine</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> analysis</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/map-every-year-in-the-history-of-tibetan-people/" target="_blank" rel="noopener noreferrer">Map: Every Year in the History of Tibetan People</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Tibet</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> history</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> geography</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/ian-easton-on-the-prospect-for-war-over-taiwan/" target="_blank" rel="noopener noreferrer">Ian Easton on the Prospect for War over Taiwan</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Taiwan</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Ian Easton</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/chart-top-five-stocks-hit-23-of-sp-500-market-cap/" target="_blank" rel="noopener noreferrer">Chart: Five Biggest Stocks Are 23% of S&P 500 Market Cap</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sp500</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> stocks</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sixcolors.com/link/2020/11/apple-reduces-app-store-cut-to-15-percent-for-small-businesses/" target="_blank" rel="noopener noreferrer">Apple reduces App Store cut to 15 percent for small businesses</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sixcolors</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> App store</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/gundlachs-terrifying-vision-of-the-future/" target="_blank" rel="noopener noreferrer">Gundlach's Terrifying Vision of the Future</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.latimes.com/science/story/2020-11-12/covid-19-spread-at-thanksgiving-holiday-gatherings-could-be-like-maine-wedding" target="_blank" rel="noopener noreferrer">Super-spreading wedding party demonstrates COVID-19 risk posed by holiday gatherings</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">latimes</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> super-spreader</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.gregreda.com/2020/11/17/scraping-pages-behind-login-forms/" target="_blank" rel="noopener noreferrer">Scraping Pages Behind Login Forms</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gregreda</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">scraping</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> login</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> tutorial</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://jamesallworth.medium.com/intels-disruption-is-now-complete-d4fa771f0f2c" target="_blank" rel="noopener noreferrer">Intel’s Disruption is Now Complete</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">medium</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Intel</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple Silicon</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Clay Christensen</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> iPhone</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html" target="_blank" rel="noopener noreferrer">微信小程序入门教程之一：初次上手</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Wechat</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Wechat mini program</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> tutorial </span>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2020/is-the-internet-different/" target="_blank" rel="noopener noreferrer">Is the Internet Different?</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Aggregation Theory</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> regulation</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/54759" target="_blank" rel="noopener noreferrer">Super Mario 2021 sets revealed!</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Super Mario</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Nintendo</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/11/18/app-store-small-business-program" target="_blank" rel="noopener noreferrer">App Store Small Business Program Will Reduce Commission to 15 Percent for Developers Earning up to $1 Million Per Year</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> App store</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2020/11/16/intels-disruption-is-now-complete/" target="_blank" rel="noopener noreferrer">Intel’s Disruption Is Now Complete</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Intel</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> ARM</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple M1</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2020/11/17/big-sur-notifications/" target="_blank" rel="noopener noreferrer">Big Sur Notifications</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">macOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Big Sur</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2020/11/17/big-sur-application-icons/" target="_blank" rel="noopener noreferrer">Big Sur Application Icons</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">macOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Big Sur</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2020/11/17/a-hole-in-the-wall/" target="_blank" rel="noopener noreferrer">A Hole in the Wall</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> macOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> privacy</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html" target="_blank" rel="noopener noreferrer">微信小程序入门教程之二：页面样式</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Wechat</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Wechat mini program</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> tutorial </span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/54653/calculating-set-ratings" target="_blank" rel="noopener noreferrer">Calculating set ratings</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> rating</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> analysis</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/54737" target="_blank" rel="noopener noreferrer">2019 Bricktober sets</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/barely-half-of-americans-are-currently-working/" target="_blank" rel="noopener noreferrer">Barely Half of Americans Are Currently Working</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> labor</span>
+    </td></tr>
+    <tr><td>
       <a href="https://brickset.com/article/54267" target="_blank" rel="noopener noreferrer">Review: 10276 Colosseum</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week26</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
