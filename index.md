@@ -19,6 +19,89 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://m.douban.com/note/492460340/" target="_blank" rel="noopener noreferrer">追寻消逝的时光：小记我的朋友高华</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">douban</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Gao Hua</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> 高华</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://finance.sina.com.cn/tech/2020-10-12/doc-iivhuipp9118153.shtml" target="_blank" rel="noopener noreferrer">广电砸下百亿的CMMB手持电视 终究被时代抛弃了</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">新浪</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">CMMB</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> mobile</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://gravitysworm.com/post/629431737374670848/%E6%B8%B8%E6%88%8F%E9%9B%B6%E5%B7%A5%E5%9C%A8%E4%B8%AD%E5%9B%BD" target="_blank" rel="noopener noreferrer">游戏零工在中国</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gravitysworm</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> labor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://slate.com/business/2018/08/ibms-watson-how-the-ai-project-to-improve-cancer-treatment-went-wrong.html" target="_blank" rel="noopener noreferrer">What Went Wrong With IBM’s Watson</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">slate</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">IBM</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> IBM Watson</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> AI</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/2020/11/the_m1_macs" target="_blank" rel="noopener noreferrer">The M1 Macs</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple Silicon</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple M1</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 135 期）：什么行业适合创业？</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">startup</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://m.bjnews.com.cn/detail/160606189815420.html" target="_blank" rel="noopener noreferrer">招聘网站里的情色陷阱：招助理实为“拉皮条”</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">新京报</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">hiring</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> mistress</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.thecut.com/2020/11/nyc-underground-nightlife-covid-19.html" target="_blank" rel="noopener noreferrer">Sin City</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thecut</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">NYC</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> COVID19</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> nightlife</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.wired.com/story/open-source-coders-few-tired/" target="_blank" rel="noopener noreferrer">The Few, the Tired, the Open Source Coders</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">wired</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">programming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> open source</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> the bootstrap</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2020/playing-on-hard-mode/" target="_blank" rel="noopener noreferrer">Playing on Hard Mode</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">airbnb</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> doordash</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> OTA</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://blog.bolt.io/bolt-holiday-gift-guide-2020/" target="_blank" rel="noopener noreferrer">Bolt Holiday Gift Guide 2020</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bolt</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">holiday</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> gifts</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> gadgets</span>
+    </td></tr>
+    <tr><td>
       <a href="https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652426105&idx=1&sn=61413e27e9020bbf8eb459fb116d705f" target="_blank" rel="noopener noreferrer">基层治理“积分制”试验：举报违法犯罪加分，越级上访扣分</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
