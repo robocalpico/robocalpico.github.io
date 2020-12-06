@@ -126,22 +126,6 @@ title: Home
       <span class="badge badge-pill badge-warning text-wrap text-left"> macOS</span>
     </td></tr>
     <tr><td>
-      <a href="https://brickset.com/article/55277/holiday-gift-guide-nes" target="_blank" rel="noopener noreferrer">Holiday gift guide: NES</a>
-      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left"> Nintendo</span>
-    </td></tr>
-    <tr><td>
-      <a href="http://www.asymco.com/2020/11/30/post-pc/" target="_blank" rel="noopener noreferrer">Post PC</a>
-      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">asymco</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left"> M1</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left"> Mac</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple Silicon</span>
-    </td></tr>
-    <tr><td>
       <a href="https://m.douban.com/note/492460340/" target="_blank" rel="noopener noreferrer">追寻消逝的时光：小记我的朋友高华</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">douban</span>
