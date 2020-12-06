@@ -19,6 +19,129 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://www.solidot.org/story?sid=66276" target="_blank" rel="noopener noreferrer">被击穿的「蛋壳公寓」：中介互联网的倒台范本</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">solidot</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">蛋壳</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.facebook.com/groups/2480163464/permalink/10159414054908465/" target="_blank" rel="noopener noreferrer">Willie Lu</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">facebook</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> academia</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/03/hp-rip" target="_blank" rel="noopener noreferrer">Hewlett Packard Enterprise Relocating Headquarters From Silicon Valley to Texas</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">HP</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sixcolors.com/link/2020/12/warner-bros-to-stream-all-new-movies-on-hbo-max-in-2021/" target="_blank" rel="noopener noreferrer">Warner Bros. to stream all new movies on HBO Max in 2021</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sixcolors</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">HBO MAX</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Warner Bros</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> SVOD </span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/03/app-store-best-apps-and-games-of-2020" target="_blank" rel="noopener noreferrer">App Store’s Best Apps and Games of 2020</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> App store</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> iOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Genshin Impact</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Zoom</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> gacha game</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/2020/12/m1_macs_truth_and_truthiness" target="_blank" rel="noopener noreferrer">M1 Macs: Truth and Truthiness</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> M1</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Mac</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple Silicon</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/xi-declares-victory-over-poverty" target="_blank" rel="noopener noreferrer">Xi declares victory over poverty; Steel production surges; Real estate; Australia-China</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Xi</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 136 期）：利特伍德奇迹定律</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/biden-wants-a-united-front-hong-kong" target="_blank" rel="noopener noreferrer">Biden wants a united front; Hong Kong jail sentences; Xianzi’s 弦子 day in court; Danke mess</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> united front</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Xianzi</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Danke</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> 蛋壳</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/short-interest-on-sp-hits-new-lows/" target="_blank" rel="noopener noreferrer">Short Interest on S&P Hits New Lows</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">SP500</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> stocks</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/01/salesforce-slack" target="_blank" rel="noopener noreferrer">Salesforce Buys Slack For $27.7 Billion</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Slack</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Salesforce</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/australia-china-politburo-meeting" target="_blank" rel="noopener noreferrer">Australia-China; Politburo meeting; Xi on archaeology; Massive hydropower project in Tibet</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Australia</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2020/11/30/retiring-growl/" target="_blank" rel="noopener noreferrer">Retiring Growl</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Growl</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> macOS</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/11/30/growl-in-retirement" target="_blank" rel="noopener noreferrer">Growl in Retirement</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Growl</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> macOS</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/55277/holiday-gift-guide-nes" target="_blank" rel="noopener noreferrer">Holiday gift guide: NES</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Nintendo</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.asymco.com/2020/11/30/post-pc/" target="_blank" rel="noopener noreferrer">Post PC</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week29</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">asymco</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> M1</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Mac</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple Silicon</span>
+    </td></tr>
+    <tr><td>
       <a href="https://m.douban.com/note/492460340/" target="_blank" rel="noopener noreferrer">追寻消逝的时光：小记我的朋友高华</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">douban</span>
@@ -59,7 +182,7 @@ title: Home
     <tr><td>
       <a href="http://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 135 期）：什么行业适合创业？</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week28</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">startup</span>
     </td></tr>
     <tr><td>
@@ -118,7 +241,7 @@ title: Home
     <tr><td>
       <a href="http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 134 期）：未来的游戏业比现在大100倍</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
     </td></tr>
     <tr><td>
@@ -199,7 +322,7 @@ title: Home
     <tr><td>
       <a href="http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html" target="_blank" rel="noopener noreferrer">微信小程序入门教程之一：初次上手</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">Wechat</span>
       <span class="badge badge-pill badge-warning text-wrap text-left"> Wechat mini program</span>
       <span class="badge badge-pill badge-warning text-wrap text-left"> tutorial </span>
@@ -262,7 +385,7 @@ title: Home
     <tr><td>
       <a href="http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html" target="_blank" rel="noopener noreferrer">微信小程序入门教程之二：页面样式</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week27</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">Wechat</span>
       <span class="badge badge-pill badge-warning text-wrap text-left"> Wechat mini program</span>
       <span class="badge badge-pill badge-warning text-wrap text-left"> tutorial </span>
@@ -331,7 +454,7 @@ title: Home
     <tr><td>
       <a href="http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 133 期）：贵州变瑞士，有没有可能？</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week26</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
     </td></tr>
     <tr><td>
       <a href="https://secondmeasure.com/datapoints/amazon-prime-day-2020-was-the-biggest-ever/" target="_blank" rel="noopener noreferrer">Amazon Prime Day 2020 Was the Biggest Ever</a>
@@ -470,7 +593,7 @@ title: Home
     <tr><td>
       <a href="http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 132 期）：快能力和慢能力</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week25</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ruanyifeng</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
     </td></tr>
     <tr><td>
       <a href="https://sinocism.com/p/jack-mas-mess-australia-china-risk" target="_blank" rel="noopener noreferrer">Jack Ma’s mess; Australia China risk; China bans some foreigners; Heartbreaking human trafficking story</a>
