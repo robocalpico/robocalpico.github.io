@@ -23,25 +23,25 @@ title: Home
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> stocks</span>
     </td></tr>
     <tr><td>
       <a href="https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/" target="_blank" rel="noopener noreferrer">Privacy Labels and Lookalike Audiences</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">Facebook</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">Google</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">regulation</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> ads</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Facebook</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Google</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> regulation</span>
     </td></tr>
     <tr><td>
       <a href="https://blog.cloudflare.com/privacy-first-web-analytics/" target="_blank" rel="noopener noreferrer">Cloudflare’s privacy-first Web Analytics is now available for everyone</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">cloudflare</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">Cloudflare</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">web</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> web</span>
     </td></tr>
     <tr><td>
       <a href="http://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 137 期）：Slack 被收购，以及企业的技术选型</a>
@@ -53,15 +53,15 @@ title: Home
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">iPhone 12</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">iPhone 12 Mini</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> iPhone 12 Mini</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Apple</span>
     </td></tr>
     <tr><td>
       <a href="https://mjtsai.com/blog/2020/12/08/airpods-max/" target="_blank" rel="noopener noreferrer">AirPods Max</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">Airpods Max</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> Airpods Max</span>
     </td></tr>
     <tr><td>
       <a href="http://www.gregreda.com/2020/12/09/deploying-static-sites-with-github-actions/" target="_blank" rel="noopener noreferrer">Deploying static sites with Github Actions</a>
@@ -81,31 +81,105 @@ title: Home
       <span class="badge badge-pill badge-warning text-wrap text-left">recession</span>
     </td></tr>
     <tr><td>
+      <a href="https://thesoundingline.com/trillion-dollar-liquidity-wave-about-to-hit/" target="_blank" rel="noopener noreferrer">Trillion Dollar Liquidity Wave About to Hit?</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">feds</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/a-lesson-of-us-manufacturing-dominance-in-the-1930s-labor-costs-arent-the-key/" target="_blank" rel="noopener noreferrer">A Lesson of US Manufacturing Dominance in the 1930s: It’s Not About Cheap Labor</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">manufactoring</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">us</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.gregreda.com/2020/12/11/using-go-and-twilio-to-monitor-my-email/" target="_blank" rel="noopener noreferrer">Using Go and Twilio to monitor my email</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gregreda</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tutorial</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">golang</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">twilio</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">static site</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2020/stripe-platform-of-platforms/" target="_blank" rel="noopener noreferrer">Stripe: Platform of Platforms</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Stripe</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">platform</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Internet</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://baike.baidu.com/item/雷洋/19658789" target="_blank" rel="noopener noreferrer">雷洋</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">baidu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6" target="_blank" rel="noopener noreferrer">雷洋事件</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">wikipedia</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://baike.baidu.com/item/雷洋" target="_blank" rel="noopener noreferrer">雷洋</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">baidu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://zhuanlan.zhihu.com/p/97322550" target="_blank" rel="noopener noreferrer">雷洋案，重要的是：人是怎么死的？</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">zhihu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.guancha.cn/ZhuXinWei/2016_05_11_359958.shtml" target="_blank" rel="noopener noreferrer">回头再看那条人大硕士求救帖，几乎每一段都充斥着谎言！</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">guancha</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.xinhuanet.com//politics/2016-12/29/c_129425444.htm" target="_blank" rel="noopener noreferrer">雷洋案涉案警务人员和相关责任人受到党政纪处理</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">新华网</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
       <a href="https://brickset.com/article/56573" target="_blank" rel="noopener noreferrer">Adding the Police Station to your modular street</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">modular home</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">review</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">creator expert</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> modular home</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> review</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> creator expert</span>
     </td></tr>
     <tr><td>
       <a href="https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/" target="_blank" rel="noopener noreferrer">We read the paper that forced Timnit Gebru out of Google. Here’s what it says</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">technologyreview</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">Google</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ethical AI</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">research</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">termination</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> ethical AI</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> research</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> termination</span>
     </td></tr>
     <tr><td>
       <a href="http://glinden.blogspot.com/2020/12/facebook-and-investing-in-long-term.html" target="_blank" rel="noopener noreferrer">Facebook and investing in the long-term</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">glinden</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">Facebook</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">disinformation</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">fake news</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> disinformation</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> ads</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left"> fake news</span>
     </td></tr>
     <tr><td>
       <a href="https://www.solidot.org/story?sid=66276" target="_blank" rel="noopener noreferrer">被击穿的「蛋壳公寓」：中介互联网的倒台范本</a>
