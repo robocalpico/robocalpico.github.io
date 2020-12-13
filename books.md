@@ -19,7 +19,7 @@ title: Books
     <tr>
       <td><a href="https://www.goodreads.com/book/show/29055636">红太阳是怎样升起的：延安整风运动的来龙去脉</a></td>
       <td>07/2020</td>
-      <td></td>
+      <td>12/2020</td>
     </tr>
   </tbody>
 </table>
