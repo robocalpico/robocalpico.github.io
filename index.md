@@ -113,13 +113,6 @@ title: Home
       <span class="badge badge-pill badge-warning text-wrap text-left">Internet</span>
     </td></tr>
     <tr><td>
-      <a href="https://baike.baidu.com/item/雷洋/19658789" target="_blank" rel="noopener noreferrer">雷洋</a>
-      <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">baidu</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
-    </td></tr>
-    <tr><td>
       <a href="https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6" target="_blank" rel="noopener noreferrer">雷洋事件</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">wikipedia</span>
@@ -127,23 +120,23 @@ title: Home
       <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
     </td></tr>
     <tr><td>
-      <a href="https://baike.baidu.com/item/雷洋" target="_blank" rel="noopener noreferrer">雷洋</a>
+      <a href="https://baike.baidu.com/item/%E9%9B%B7%E6%B4%8B/19658789" target="_blank" rel="noopener noreferrer">雷洋</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">baidu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">百度百科</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
     </td></tr>
     <tr><td>
       <a href="https://zhuanlan.zhihu.com/p/97322550" target="_blank" rel="noopener noreferrer">雷洋案，重要的是：人是怎么死的？</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">zhihu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">知乎</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
     </td></tr>
     <tr><td>
       <a href="http://www.guancha.cn/ZhuXinWei/2016_05_11_359958.shtml" target="_blank" rel="noopener noreferrer">回头再看那条人大硕士求救帖，几乎每一段都充斥着谎言！</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
-      <span class="badge badge-pill badge-warning text-wrap text-left">guancha</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">观察网</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">雷洋</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
     </td></tr>
