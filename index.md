@@ -19,6 +19,169 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMTA3Ng==&mid=2247483973&idx=1&sn=c6accd82c6b11ab1c662063be1562caa" target="_blank" rel="noopener noreferrer">广告界的未来：你需要了解的三个程序化广告交易股票</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">adtech</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">programmable ads</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.asymco.com/2020/12/17/apple-in-mid-2023/" target="_blank" rel="noopener noreferrer">Apple in mid-2023</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">asymco</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">financial</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">revenue</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2020/five-lessons-from-dave-chappelle/" target="_blank" rel="noopener noreferrer">Five Lessons From Dave Chappelle</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">contract</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">standup comedy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.reuters.com/article/us-contextlogic-ipo-idUSKBN28Q2G3" target="_blank" rel="noopener noreferrer">E-commerce firm Wish sees shares fall 5% in market debut</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">reuters</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Wish</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">e-commerce</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">IPO</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://blog.cloudflare.com/cloudflare-pages/" target="_blank" rel="noopener noreferrer">Introducing Cloudflare Pages: the best way to build JAMstack websites</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">cloudflare</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Cloudflare pages</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">JAMstack</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/56760/building-speeders-the-creative-process" target="_blank" rel="noopener noreferrer">Building Speeders: The Creative Process</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">speeders</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tutorial</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.redfin.com/news/pending-sales-up-32-pct-prices-up-15-pct/" target="_blank" rel="noopener noreferrer">Housing Market Update: Home Prices Up 15%, Pending Sales Rise 32%</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">redfin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">housing</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://glinden.blogspot.com/2020/12/when-will-virtual-reality-take-off-100.html" target="_blank" rel="noopener noreferrer">When will virtual reality take off? The $100 bet.</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">glinden</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">VR</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://developer.apple.com/app-store/app-privacy-details/" target="_blank" rel="noopener noreferrer">App Store</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">App store</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2020/social-networking-2-0/" target="_blank" rel="noopener noreferrer">Social Networking 2.0</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">social network</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">internet</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://blog.1password.com/what-we-dont-know-about-you/" target="_blank" rel="noopener noreferrer">What we (don't) know about you</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">1password</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">security</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">password</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ftchinese.com/story/001090672" target="_blank" rel="noopener noreferrer">瑞幸财务造假案1.8亿美元和解</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ftchinese</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Luckin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">fraud</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/two-years-for-the-two-michaels-sanctioned" target="_blank" rel="noopener noreferrer">Two years for the two Michaels; Sanctioned official speaks at AmCham China dinner; Debt</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Canada</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Tibetan</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/16/facebook-full-page-ad" target="_blank" rel="noopener noreferrer">Facebook Takes Out Full-Page Newspaper Ads to Attack Apple’s Changes Strengthening iOS Privacy</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Facebook</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">newspaper</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/2020/12/roman_a_clef_computer_maker" target="_blank" rel="noopener noreferrer">I Suppose a Roman à Clef About a Design-Obsessed California Computer Maker With a Charismatic but Mercurial Founder Whose Youthful Arrogance Leads to His Ignominious Ouster and Exile, Only to Return a Decade Later to Not Only Save the Company From Seemingly Certain Ruin but Lead Them to Theretofore Unimaginable Triumph and Renown, Is Off the Table Too</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Gawker</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Tim Cook</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple TV+</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/us-working-age-population-is-now-shrinking/" target="_blank" rel="noopener noreferrer">US Working Age Population Is Now Shrinking</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/excess-liquidity-and-the-sp-500-pe-ratio/" target="_blank" rel="noopener noreferrer">Excess Liquidity and the S&P 500 PE Ratio</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sp500</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/david-rosenberg-explains-how-our-huge-financial-asset-bubble-will-eventually-pop/" target="_blank" rel="noopener noreferrer">David Rosenberg Explains How Our "Huge Financial Asset Bubble" Will Eventually Pop</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/56566" target="_blank" rel="noopener noreferrer">Who visited Brickset this year and what did they look at?</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/news/articles/2020-12-14/cd-projekt-loses-37-of-value-on-game-bugs-console-refunds" target="_blank" rel="noopener noreferrer">CD Projekt Loses 37% of Value on Game Bugs, Console Refunds</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">cyberpunk 2077</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.foreignaffairs.com/articles/china/2020-12-04/shibaidedang" target="_blank" rel="noopener noreferrer">失败的党</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">foreignaffairs</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">CCP</span>
+    </td></tr>
+    <tr><td>
       <a href="https://thesoundingline.com/value-vs-growth-inflows-hit-record-extremes/" target="_blank" rel="noopener noreferrer">Value vs Growth Inflows Hit Record Extremes</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week30</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
