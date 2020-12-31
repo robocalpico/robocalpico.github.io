@@ -19,6 +19,385 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://mjtsai.com/blog/2020/12/14/microsoft-productivity-score/" target="_blank" rel="noopener noreferrer">Microsoft Productivity Score</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Microsoft</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Office</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/54963" target="_blank" rel="noopener noreferrer">Review: 80107 Spring Lantern Festival</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lantern festival</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/56954" target="_blank" rel="noopener noreferrer">Integrating the Spring Lantern Festival into your modular street</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lantern festival</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">modular set</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-worlds-largest-arms-companies/" target="_blank" rel="noopener noreferrer">The World's Largest Arms Companies</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Arms company</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/chart-why-uncertainty-about-the-future-of-the-eurozone-never-quite-goes-away/" target="_blank" rel="noopener noreferrer">Chart: Why Uncertainty About the Future of the Eurozone Never Quite Goes Away</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">eurozone</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/its-long-past-time-to-boycott-the-ccp/" target="_blank" rel="noopener noreferrer">It's Long Past Time to Boycott the CCP</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">CCP</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/is-rising-inflation-actually-good-for-stocks/" target="_blank" rel="noopener noreferrer">Is Rising Inflation Actually Good for Stocks?</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">inflation</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.macworld.com/article/3601754/apples-most-significant-moves-of-2020.html" target="_blank" rel="noopener noreferrer">Apple’s most significant moves of 2020</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">macworld</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">M1</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple Silicon</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iPhone</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 139 期）：生物学的可怕进展</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">biology</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">RNA</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">vaccine</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://coolshell.cn/articles/21113.html" target="_blank" rel="noopener noreferrer">百度为什么掉队了</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">coolshell</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Baidu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2020/12/24/apple-removes-unlicensed-games-from-china-app-store/" target="_blank" rel="noopener noreferrer">Apple Removes Unlicensed Games From China App Store</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">App store</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">game</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2020/12/24/apples-privacy-nutrition-labels-are-a-blessing-and-a-curse/" target="_blank" rel="noopener noreferrer">Apple’s “Privacy Nutrition Labels” Are a Blessing and a Curse</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">App store</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/14/wong-fitness-plus" target="_blank" rel="noopener noreferrer">Raymond Wong Reviews Fitness+</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Fitness+</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple Watch</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/14/haselton-fitness-plus" target="_blank" rel="noopener noreferrer">Todd Haselton Reviews Apple Fitness+</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Fitness+</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple Watch</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/14/wakabayashi-google-search" target="_blank" rel="noopener noreferrer">Daisuke Wakabayashi on the Dominance of Google Search</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Google</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Alphabet</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">search</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">monopoly</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2020/12/15/dismissing-big-sur-notifications/" target="_blank" rel="noopener noreferrer">Dismissing Big Sur Notifications</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">macOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Big Sur</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">notification</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/12/paul-ford-lets-skim-slack-salesforce" target="_blank" rel="noopener noreferrer">‘Let’s Skim! The Slack/Salesforce Press Release’</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Slack</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Salesforce</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/why-inflation-targeting-is-a-bad-idea-and-so-many-feel-that-inflation-is-higher-than-cpi/" target="_blank" rel="noopener noreferrer">Why Inflation Targeting Is a Bad Idea and So Many Feel That Inflation Is Higher Than CPI</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">inflation</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">CPI</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.lightbluetouchpaper.org/2020/12/02/pushing-the-limits-acoustic-side-channels/" target="_blank" rel="noopener noreferrer">Pushing the limits: acoustic side channels</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">lightbluetouchpaper</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">security</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">micphone</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">voice assistant</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">acoustic side channels</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sixcolors.com/post/2020/12/iphone-12-mini-iphone-12-pro-max-enjoyable-extremes/" target="_blank" rel="noopener noreferrer">iPhone 12 mini & iPhone 12 Pro Max: Enjoyable extremes</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sixcolors</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iPhone 12</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iPhone</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.nytimes.com/2020/12/02/business/japan-old-companies.html" target="_blank" rel="noopener noreferrer">This Japanese Shop Is 1,020 Years Old. It Knows a Bit About Surviving Crises.</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">nytimes</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Japan</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">shop</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">entrepreneur</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/11/panzarino-airpods-max" target="_blank" rel="noopener noreferrer">Matthew Panzarino’s ‘Not a Review’ First Look at AirPods Max</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Airpods</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Airpods Max</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">headphone</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/2020/12/heavy_is_the_head_that_wears_the_airpods_max" target="_blank" rel="noopener noreferrer">Heavy Is the Head That Wears the AirPods Max</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Airpods</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Airpods Max</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">headphone</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/news/articles/2020-12-07/apple-preps-next-mac-chips-with-aim-to-outclass-highest-end-pcs" target="_blank" rel="noopener noreferrer">Apple Preps Next Mac Chips With Aim to Outclass Top-End PCs</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">M1</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple Silicon</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/unlike-during-global-financial-crisis-neither-cpi-nor-pce-inflation-have-turned-negative/" target="_blank" rel="noopener noreferrer">Unlike During Global Financial Crisis, Neither CPI nor PCE Inflation Have Turned Negative</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">CPI</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">inflation</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/thebes-egypt-1821/" target="_blank" rel="noopener noreferrer">Thebes, Egypt – 1821</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Egypt</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">history</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/what-happens-when-this-chart-hits-zero/" target="_blank" rel="noopener noreferrer">What Happens When This Chart Hits Zero?</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GDP</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US treasuries</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">debt</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-rise-of-zombie-companies-continues/" target="_blank" rel="noopener noreferrer">The Rise of Zombie Companies Continues</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">zombie companies</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">debt</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/where-debt-has-risen-fastest-since-covid/" target="_blank" rel="noopener noreferrer">Where Debt Has Risen the Fastest Since Covid</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">debt</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.cnbc.com/2020/12/04/att-dismantles-time-warner-to-battle-netflix-the-inside-story.html" target="_blank" rel="noopener noreferrer">The home of the Sopranos is under siege: Inside the battle for the soul of HBO</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">cnbc</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">AT&T</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">HBO</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">HBO Max</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">WarnerMedia</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">VODS</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.toutiao.com/i6909245778061951500/" target="_blank" rel="noopener noreferrer">BT独家 | 知乎已启动上市程序，欲在美股或港股IPO</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">toutiao</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">知乎</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">zhihu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">IPO</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://jvns.ca/blog/2020/12/05/how-i-write-useful-programming-comics/" target="_blank" rel="noopener noreferrer">How I write useful programming comics</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">jvns</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">programming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tutorial</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.marketscreener.com/quote/stock/KWEICHOW-MOUTAI-CO-LTD-6496237/news/Kweichow-Moutai-China-s-Liquor-Giants-Intoxicate-Investors-32058738/" target="_blank" rel="noopener noreferrer">Kweichow Moutai : China's Liquor Giants Intoxicate Investors</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">marketscreener</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">liquor</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Maotai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.lightbluetouchpaper.org/2020/12/21/an-exploration-of-the-cybercrime-ecosystem-around-shodan/" target="_blank" rel="noopener noreferrer">An exploration of the cybercrime ecosystem around Shodan</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">lightbluetouchpaper</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">security</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">cybercrime</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">shodan</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">search engine</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">research</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/18/steve-jobs-on-privacy" target="_blank" rel="noopener noreferrer">Steve Jobs on Privacy</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Steve Jobs</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/18/swisher-facebook-apple" target="_blank" rel="noopener noreferrer">Kara Swisher : ‘Facebook’s Tone-Deaf Attack on Apple’</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Facebook</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2020/12/18/zoom-china" target="_blank" rel="noopener noreferrer">Justice Department Charges Zoom With Suppressing U.S. Calls About Tiananmen Square, at Behest of China</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Zoom</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">lawsuit</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Tiananmen Square</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/2020/12/facebook_free_as_in_bullshit" target="_blank" rel="noopener noreferrer">Facebook: Free as in Bullshit</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Facebook</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/leland-miller-china-is-revising-2019-down-to-make-2020-growth-look-stronger/" target="_blank" rel="noopener noreferrer">Leland Miller: China Is Revising 2019 Down to Make 2020 Growth Look Stronger</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GDP</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/54883" target="_blank" rel="noopener noreferrer">Traffic review of the year</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 138 期）：失业难以避免，重构人生规划</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/the-five-fundamentals-national-security" target="_blank" rel="noopener noreferrer">The five fundamentals; National security; Power shortages; RIP Ezra Vogel</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mp.weixin.qq.com/s?__biz=MjM5MDI5OTkyOA==&mid=2665596965&idx=1&sn=2b06833084fe33dfe16568eec2262c29" target="_blank" rel="noopener noreferrer">福建小哥租下一片海，造600㎡漂浮大平层：我随时可以与世隔绝</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">house</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">architecture</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.theverge.com/2020/12/19/22189424/pokemon-go-covid-2020-safety" target="_blank" rel="noopener noreferrer">Pokémon Go creators say COVID is ‘existential to our game’</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">theverge</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Pokemon</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Pokemon Go</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ninatic</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">game</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/coal-and-winter-heating-complaints" target="_blank" rel="noopener noreferrer">Coal and winter heating; Complaints about the iron-ore price; US-China</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">coal</span>
+    </td></tr>
+    <tr><td>
       <a href="https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMTA3Ng==&mid=2247483973&idx=1&sn=c6accd82c6b11ab1c662063be1562caa" target="_blank" rel="noopener noreferrer">广告界的未来：你需要了解的三个程序化广告交易股票</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week31</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
