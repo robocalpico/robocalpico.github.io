@@ -4,7 +4,6 @@ author: readhop
 description: Read, one hop at a time.
 github: [metadata]
 url: "https://readhop.com"
-google_analytics: UA-158033435-1
 feed:
   tags: true
   excerpt_only: false
