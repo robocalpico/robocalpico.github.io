@@ -19,6 +19,151 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://brickset.com/article/56962" target="_blank" rel="noopener noreferrer">The year in review</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/54967/clues-to-the-minifig-s-lifecycle-uncovered-in-city-sets" target="_blank" rel="noopener noreferrer">Clues to the minifig's lifecycle uncovered in City sets</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego City</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/m1-money-supply-growth-surges-to-eye-watering-69/" target="_blank" rel="noopener noreferrer">M1 Money Supply Growth Surges to Eye Watering 69%</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">M1</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://arstechnica.com/tech-policy/2020/12/private-party-app-pulled-from-app-store-by-apple/" target="_blank" rel="noopener noreferrer">Private party app pulled from App Store by Apple</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">arstechnica</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">App store</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/ronald-stoeferle-all-taboos-have-been-broken-in-2020/" target="_blank" rel="noopener noreferrer">Ronald Stoeferle: All Fiscal and Monetary Taboos Have Been Broken in 2020</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">feds</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57036" target="_blank" rel="noopener noreferrer">Bleak new year in prospect for UK LEGO fans</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">UK</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">shutdown</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.meritechcapital.com/blog/2020-review-high-growth-saas-ipos" target="_blank" rel="noopener noreferrer">2020 Review: SaaS IPOs</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">meritechcapital</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">SaaS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">IPO</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/2020/12/facebook_unknowable_megascale" target="_blank" rel="noopener noreferrer">Facebook’s Unknowable Megascale</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Facebook</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 140 期）：印度人的工资是多少？</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">India</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.pingwest.com/a/177413" target="_blank" rel="noopener noreferrer">GitHub的中国乱象 : 刷星、高仿、骂街和版</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">pingwest</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Github</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">fake</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://macropolo.org/analysis/forecast-china-2025-adjusts-course/" target="_blank" rel="noopener noreferrer">Forecast 2025: China Adjusts Course</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">macropolo</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/us-rail-traffic-is-now-up-year-over-year/" target="_blank" rel="noopener noreferrer">US Rail Traffic Has Been up Year-over-Year Since October</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">retail</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/leland-miller-deconstructs-chinas-exaggerated-recovery-narrative/" target="_blank" rel="noopener noreferrer">Leland Miller Deconstructs China's Exaggerated Recovery Narrative</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GDP</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://cn.nytimes.com/technology/20201228/china-semiconductors/" target="_blank" rel="noopener noreferrer">中国“芯片热”背后：投资泡沫、项目烂尾</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">nytimes</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">semiconductors</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">chips</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://xueqiu.com/4035610190/166949073" target="_blank" rel="noopener noreferrer">Lemonade 保险公司放弃利润，赚市值。 （利润无限好，只是近黄昏。） 最近十几年，世界最前卫的创业者们已经放弃了利...</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">xueqiu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lemonade</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">entrepreneur</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">startup</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">insurance</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mp.weixin.qq.com/s?__biz=MzA5MTk4NTU2Nw==&mid=2654537531&idx=2&sn=74fb64e9f717d2eac4242724f30bd818" target="_blank" rel="noopener noreferrer">死于新冠的美国华裔，缘何惨遭全网群嘲？</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mp.weixin.qq.com/s?__biz=MzU2NDQ3NjExNg==&mid=2247536493&idx=1&sn=7e4f854574044d3b06fd2b6f3e6f6e6b" target="_blank" rel="noopener noreferrer">无人驾驶将迎上市潮：禾赛科技已完成上市辅导，图森未来最快明年在美IPO</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">autonomous car</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">IPO</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
       <a href="https://mjtsai.com/blog/2020/12/14/microsoft-productivity-score/" target="_blank" rel="noopener noreferrer">Microsoft Productivity Score</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week32</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
