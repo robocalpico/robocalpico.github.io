@@ -19,6 +19,286 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://www.bilibili.com/video/BV1iT4y1N7AU?from=search&seid=11420681515643502839" target="_blank" rel="noopener noreferrer">因为看到同事被抬上救护车我被拼多多开除了</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bilibili</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Pinduoduo</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://news.moomoo.com/stock/6856476" target="_blank" rel="noopener noreferrer">白酒大涨还能持续么？机构：抱团股瓦解概率很低</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">moomoo</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">baijiu</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html" target="_blank" rel="noopener noreferrer">科技爱好者周刊（第 141 期）：封闭系统的胜利</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">阮一峰</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">aggregate</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">M1</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.hindustantimes.com/world-news/10-chinese-spies-caught-in-kabul-get-a-quiet-pardon-fly-home-in-chartered-aircraft/story-YhNI0zjmClMcj6T7TCCwVM.html" target="_blank" rel="noopener noreferrer">10 Chinese spies caught in Kabul get a quiet pardon, fly home in chartered aircraft</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">hindustantimes</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">India</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">spy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">politics</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2021/01/06/10th-anniversary-of-the-mac-app-store/" target="_blank" rel="noopener noreferrer">10th Anniversary of the Mac App Store</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">App store</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-entire-bull-market-is-from-overnight-trading/" target="_blank" rel="noopener noreferrer">The Entire Bull Market Has Occurred During Overnight Trading</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-balance-of-political-power-in-2021-and-2022/" target="_blank" rel="noopener noreferrer">The Balance of Political Power in 2021 and 2022</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US politics</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-06/tesla-kept-busy-in-2020" target="_blank" rel="noopener noreferrer">Tesla Kept Busy in 2020</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Tesla</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.whatsonweibo.com/guo-jingming-the-yin-yang-master-dream-of-eternity-pulled-from-theaters/" target="_blank" rel="noopener noreferrer">Guo Jingming’s ‘The Yin-Yang Master: Dream of Eternity’ Pulled from Theaters</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">whatsonweibo</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">movie</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">plagiarism</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/death-sentence-for-a-corrupt-official" target="_blank" rel="noopener noreferrer">Death sentence for a corrupt official; Jack Ma; WHO's China visa problem; United Front</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">aggregate</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-07/the-ipo-market-was-too-good" target="_blank" rel="noopener noreferrer">The IPO Market Was Too Good</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">IPO</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.asymco.com/2021/01/07/app-story-2/" target="_blank" rel="noopener noreferrer">App Story</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">asymco</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">apps</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">App store</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/some-thoughts-on-2021/" target="_blank" rel="noopener noreferrer">Some Thoughts on 2021</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2021/trump-and-twitter/" target="_blank" rel="noopener noreferrer">Trump and Twitter</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Twitter</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Trump</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">social media</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">freedom of speech</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/bank-of-japan-remains-pound-for-pound-world-champion-of-monetization-in-2020/" target="_blank" rel="noopener noreferrer">Bank of Japan Remains Pound-for-Pound World Champion of Monetization in 2020</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Japan</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">monetization</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-meteoric-return-of-retail-trading/" target="_blank" rel="noopener noreferrer">The Meteoric Return of Retail Trading</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">retail trading</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-death-of-the-copper-gold-vs-10-year-correlation/" target="_blank" rel="noopener noreferrer">The Death of the Copper/Gold vs. 10-Year Correlation?</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">copper</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">treasury</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/my-favorite-charts-from-2020/" target="_blank" rel="noopener noreferrer">My Favorite Charts from 2020</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-fed-is-the-treasury-market-now/" target="_blank" rel="noopener noreferrer">The Fed Is the Treasury Market Now</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">fed</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">treasury</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57168" target="_blank" rel="noopener noreferrer">The composition of modular buildings</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">modular</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tutorial</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://udn.com/news/story/7323/5152527" target="_blank" rel="noopener noreferrer">士林夜市人潮剩二成 商圈：難吃、貴的都陣亡了</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">udn</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Taiwan</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">summer market</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://jvns.ca/blog/2021/01/04/docker-compose-is-nice/" target="_blank" rel="noopener noreferrer">Docker Compose: a nice way to set up a dev environment</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">jvns</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tutorial</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Docker</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Docker compose</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sixcolors.com/post/2021/01/20-macs-for-2020-the-cutting-room-floor/" target="_blank" rel="noopener noreferrer">20 Macs for 2020: The cutting-room floor</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sixcolors</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Mac</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">macOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Macbook</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/sounding-confident-going-into-2021" target="_blank" rel="noopener noreferrer">Sounding confident going into 2021; Politics in command; BRI not dead; 2021 foreign policy priorities; Tesla China</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Tesla</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">aggregate</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-05/dystopian-future-securities-fraud" target="_blank" rel="noopener noreferrer">Dystopian Future Securities Fraud</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">security fraud</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bitcoin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.protocol.com/democrats-georgia-senate-tech" target="_blank" rel="noopener noreferrer">Democrats are poised to take the Senate. Here’s what it means for tech.</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">protocol</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Georgia</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Senate</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">regulation</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tech</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Democrat</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Republican</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/hong-kong-hebei-outbreak-propaganda" target="_blank" rel="noopener noreferrer">Hong Kong; Hebei outbreak; Propaganda meeting; Chaos in DC</a>
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Hebei outbreak</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">aggregate</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2021/new-defaults/" target="_blank" rel="noopener noreferrer">New Defaults</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Facebook</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">internet</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">information</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">platforms</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57191" target="_blank" rel="noopener noreferrer">Do you disassemble your sets?</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mp.weixin.qq.com/s?__biz=MzAxNTcxNTIwNw==&mid=2652973360&idx=1&sn=9cda1c0cd7e773dd9d5fdf40343a9657" target="_blank" rel="noopener noreferrer">2021年投资将进入hard模式</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">investment</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://slashdot.org/story/21/01/04/0234234/when-big-brands-stopped-spending-on-digital-ads-nothing-happened-why" target="_blank" rel="noopener noreferrer">When Big Brands Stopped Spending On Digital Ads, Nothing Happened. Why?</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">slashdot</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tech</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">internet</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://blog.workflowy.com/2021/01/04/mirrors-create-live-copies-of-any-bullet/" target="_blank" rel="noopener noreferrer">Mirrors: Create live copies of any bullet and put them anywhere</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">workflowy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">new features</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57152" target="_blank" rel="noopener noreferrer">25 projects qualify in latest LEGO Ideas review period</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ideas</span>
+    </td></tr>
+    <tr><td>
       <a href="https://brickset.com/article/56962" target="_blank" rel="noopener noreferrer">The year in review</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week33</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
