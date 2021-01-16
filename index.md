@@ -19,6 +19,167 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://www.leadroyal.cn/?p=1228" target="_blank" rel="noopener noreferrer">我在拼多多的三年 – LeadroyaL's website</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">leadroyal</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Pinduoduo</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57375/base-ace-review" target="_blank" rel="noopener noreferrer">Base Ace review</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">3rd-party</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/" target="_blank" rel="noopener noreferrer">Internet 3.0 and the Beginning of (Tech) History</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">internet</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">social media</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://finance.sina.cn/2021-01-08/detail-iiznezxt1226254.d.html" target="_blank" rel="noopener noreferrer">我为什么一定要从拼多多离职？迟到一分钟扣三小时的工资</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">新浪</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Pinduoduo</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653127143&idx=1&sn=0925440ff32f757302b95ac45a2bea3a" target="_blank" rel="noopener noreferrer">外卖骑手，倒在寒冬里</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gig economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">eleme</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.deepsouthventures.com/behind-the-scenes-carpet-pad-recycling-business-1997/" target="_blank" rel="noopener noreferrer">Behind the scenes of a carpet pad recycling business in 1997</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">deepsouthventures</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">business</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">entrepreunor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57358" target="_blank" rel="noopener noreferrer">NINJAGO: The Island sets officially revealed!</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ninjago</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57344" target="_blank" rel="noopener noreferrer">Ten years of LEGO NINJAGO!</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ninjago</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2021/01/13/growth-in-desktops-mac-marketshare/" target="_blank" rel="noopener noreferrer">Growth in Desktops, Mac Marketshare</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">macOS</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sixcolors.com/post/2021/01/bbedit-a-text-utility-not-just-a-text-editor/" target="_blank" rel="noopener noreferrer">BBEdit: A text utility, not just a text editor</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sixcolors</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">BBEdit</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tutorial</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">text editor</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://daringfireball.net/linked/2021/01/12/the-republicans-are-turning-on-trump" target="_blank" rel="noopener noreferrer">The Republicans Are Turning on Trump</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">politics</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Trump</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Republican</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://sixcolors.com/link/2021/01/existence-of-apples-item-tracking-tags-leaks-again/" target="_blank" rel="noopener noreferrer">Existence of Apple’s item tracking tags leaks…again</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sixcolors</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">leak</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tag</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://secondmeasure.com/datapoints/disney-takes-customer-retention-crown-from-netflix/" target="_blank" rel="noopener noreferrer">Disney+ takes customer retention crown from Netflix</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">secondmeasure</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Disney</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Netflix</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">SVOD</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-sounding-line-is-now-google-ad-free/" target="_blank" rel="noopener noreferrer">The Sounding Line Is Now Google & Ad Free</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Google</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ads</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://news.moomoo.com/en/stock/6932843" target="_blank" rel="noopener noreferrer">拼多多惹恼了年轻人</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">moomoo</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Pinduoduo</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57303" target="_blank" rel="noopener noreferrer">NINJAGO City Gardens: more details</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ninjago</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bbc.com/ukchina/simp/55590227" target="_blank" rel="noopener noreferrer">孟加拉无指纹家族在数字时代面临的各种困扰</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bbc</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">fingerprint</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.solidot.org/story?sid=66625" target="_blank" rel="noopener noreferrer">Hans Reiser 还有三年将出狱</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">solidot</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/global-food-inflation-is-spiking-up-roughly-15-since-early-2019/" target="_blank" rel="noopener noreferrer">Global Food Inflation Is Spiking, Up Roughly 15% Since Early 2019</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">world</span>
+    </td></tr>
+    <tr><td>
+      <a href="https://mjtsai.com/blog/2021/01/11/parler-removed-from-app-stores-and-aws/" target="_blank" rel="noopener noreferrer">Parler Removed From App Stores and AWS</a>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week35</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mjtsai</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Parler</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Amazon</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Amazon AWS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">cloud</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">App store</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+    </td></tr>
+    <tr><td>
       <a href="https://www.bilibili.com/video/BV1iT4y1N7AU?from=search&seid=11420681515643502839" target="_blank" rel="noopener noreferrer">因为看到同事被抬上救护车我被拼多多开除了</a>
       <span class="badge badge-pill badge-warning text-wrap text-left">week34</span>
       <span class="badge badge-pill badge-warning text-wrap text-left">bilibili</span>
