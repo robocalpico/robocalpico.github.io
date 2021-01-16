@@ -19,6 +19,7 @@ title: Posts
       {{ post.title | escape }}
     </a>
     {% if post.tags != empty %}
+      <br/>
       {%- for tag in post.tags -%}
         <span class="badge badge-pill badge-warning text-wrap text-left">
            {{ tag }}
