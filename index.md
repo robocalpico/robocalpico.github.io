@@ -19,6 +19,154 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-11/is-the-twitter-ban-securities-fraud" target="_blank" rel="noopener noreferrer">Is the Twitter Ban Securities Fraud?</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Twitter</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">social media</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">business</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://secondmeasure.com/datapoints/beauty-subscription-boxes-glow-during-covid-19/" target="_blank" rel="noopener noreferrer">Beauty Subscription Boxes Glow During COVID-19</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">secondmeasure</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">business</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">subscription</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">COVID19</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://mp.weixin.qq.com/s?__biz=MzI0MjI0Nzc5Mg==&mid=2653977947&idx=1&sn=88cea1e27bc570444b2f278d68cfe6bd" target="_blank" rel="noopener noreferrer">郑爽代孕弃养风波：钻法律空子，这绝不是无辜！</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">微信公众号</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">surrogate</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Chinese</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gossip</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://cn.nytimes.com/china/20210120/china-annabel-yao-huawei/" target="_blank" rel="noopener noreferrer">财富与特权：“华为公主”姚安娜娱乐圈出道引争议</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">nytimes</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Huawei</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Chinese</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/call-for-who-to-investigate-us-goes" target="_blank" rel="noopener noreferrer">Call for WHO to investigate US goes viral; US declares genocide and crimes against humanity in Xinjiang; end of the Trump Era in US-China relations</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">virus origin</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57388/review-21325-medieval-blacksmith" target="_blank" rel="noopener noreferrer">Review: 21325 Medieval Blacksmith</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ideas</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.economist.com/graphic-detail/2021/01/16/japanese-people-may-have-gained-longevity-by-balancing-their-diets" target="_blank" rel="noopener noreferrer">Japanese people may have gained longevity by balancing their diets</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economist</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Japan</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">longevity</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">health</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">diet</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-08/spac-magic-isn-t-free" target="_blank" rel="noopener noreferrer">SPAC Magic Isn’t Free</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">SPAC</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">business</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.cnbc.com/2020/11/20/former-chewy-ceo-ryan-cohen-urges-gamestop-to-become-the-amazon-of-video-games.html" target="_blank" rel="noopener noreferrer">Former Chewy CEO tries to push GameStop to become the Amazon of the video-game industry</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">cnbc</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GameStop</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">business</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.xiaoyuzhoufm.com/episode/5ffde611ea1da584df697c12" target="_blank" rel="noopener noreferrer">007.我为什么出逃拼多多</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">xiaoyuzhoufm</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Pinduoduo</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">podcast</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Chinese</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">mandarin</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">中文</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.asymco.com/2021/01/13/the-entrants-guide-to-automotive-industry-updated/" target="_blank" rel="noopener noreferrer">The Entrant’s Guide to The Automobile Industry updated</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">asymco</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">auto</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.asymco.com/2021/01/14/apples-fourth-calendar-quarter-2020/" target="_blank" rel="noopener noreferrer">Apple’s Fourth Calendar Quarter 2020</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">asymco</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">earnings</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.asymco.com/2021/01/15/apple-pays-pay-day/" target="_blank" rel="noopener noreferrer">Apple Pay's pay day</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week36</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">asymco</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple Pay</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+      </div>
+    </td></tr>
+    <tr><td>
       <a href="https://www.leadroyal.cn/?p=1228" target="_blank" rel="noopener noreferrer">我在拼多多的三年 – LeadroyaL's website</a>
       <br/>
       <div class="text-right">
