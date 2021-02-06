@@ -19,6 +19,137 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-26/will-wallstreetbets-face-sec-scrutiny-after-gamestop-rally" target="_blank" rel="noopener noreferrer">GameStop Is Just a Game</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GameStop</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/" target="_blank" rel="noopener noreferrer">Regular afternoon naps linked to improved cognitive function</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sciencefocus</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">research</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">nap</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sleep</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">cognitive function</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-28/knowing-when-to-sell-gamestop-stock-at-the-top-is-impossible" target="_blank" rel="noopener noreferrer">How Will the GameStop Game Stop?</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GameStop</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-27/reddit-driven-surge-puts-gamestop-and-ryan-cohen-in-a-weird-spot" target="_blank" rel="noopener noreferrer">GameStonk Rocket Rocket Rocket</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GameStop</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-29/reddit-traders-on-robinhood-are-on-both-sides-of-gamestop" target="_blank" rel="noopener noreferrer">GameStop Stock Game Got Stomped</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GameStop</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-01-25/the-game-never-stops" target="_blank" rel="noopener noreferrer">The GameStop Game Never Stops</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GameStop</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">business</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.ftchinese.com/story/001091230" target="_blank" rel="noopener noreferrer">三星：汽车芯片短缺也将波及智能手机领域</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ftchinese</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Samsung</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">chips</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">auto</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">semiconductors</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/lunar-new-year-travel-techno-nationalism" target="_blank" rel="noopener noreferrer">Lunar New Year travel; Techno-nationalism and Biden's China policy; Politburo meeting; WHO</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lunar new year</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">WHO</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57551" target="_blank" rel="noopener noreferrer">Review: 71741 NINJAGO City Gardens (3)</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ninjago</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ninjago City Graden</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2021/intel-problems/" target="_blank" rel="noopener noreferrer">Intel Problems</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Intel</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">chips</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">semiconductors</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/" target="_blank" rel="noopener noreferrer">Firecracker: start a VM in less than a second</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week37</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">jvns</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tutorial</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Firecracker VM</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">virtual machine</span>
+      </div>
+    </td></tr>
+    <tr><td>
       <a href="https://www.bloomberg.com/opinion/articles/2021-01-11/is-the-twitter-ban-securities-fraud" target="_blank" rel="noopener noreferrer">Is the Twitter Ban Securities Fraud?</a>
       <br/>
       <div class="text-right">
