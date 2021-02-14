@@ -19,6 +19,128 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://daringfireball.net/linked/2021/02/10/dailey-google-ios-apps" target="_blank" rel="noopener noreferrer">Google’s iOS Apps, Which Still Haven’t Been Update Since Early December, Are Now Warning Users They’re Out of Date</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">daringfireball</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">App Store</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Google</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">privacy</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2021/the-relentless-jeff-bezos/" target="_blank" rel="noopener noreferrer">The Relentless Jeff Bezos</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Amazon</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Jeff Bezos</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ecommerce</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">AWS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Prime</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">CEO</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://blog.workflowy.com/2021/02/12/how-to-reduce-stress-with-simple-daily-planning/" target="_blank" rel="noopener noreferrer">How To Reduce Stress With Simple Daily Planning</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">workflowy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tutorial</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">planning</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">schedule</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">todo list</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-jobs-recovery-appears-to-be-stalling-out/" target="_blank" rel="noopener noreferrer">The Jobs Recovery Appears to Be Stalling Out</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">thesoundingline</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">jobs</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2021/publishing-is-back-to-the-future/" target="_blank" rel="noopener noreferrer">Publishing is Back to the Future</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stratechery</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">journalism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">blog</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">internet</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://secondmeasure.com/datapoints/pandemic-accelerates-gamestops-shift-to-online-sales/" target="_blank" rel="noopener noreferrer">Pandemic accelerates GameStop’s shift to online sales</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">secondmeasure</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">GameStop</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">ecommerce</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">online</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">internet</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">gaming</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/new-years-banquet-biden-xi-call-imminent" target="_blank" rel="noopener noreferrer">New Year's banquet; Biden-Xi call imminent?; WHO investigation; "Evil wolves"; Happy Year of the Ox</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">sinocism</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">WHO</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">US-China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Xi</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57821/set-availability-ideas-and-modular-buildings" target="_blank" rel="noopener noreferrer">Set availability: Ideas and Modular Buildings</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Ideas</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Modular</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/46661/which-sets-have-been-available-for-the-shortest-period-of-time" target="_blank" rel="noopener noreferrer">Which sets have been available for the shortest period of time?</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">brickset</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-02-05/robinhood-gamestop-saga-pressures-payment-for-order-flow" target="_blank" rel="noopener noreferrer">People Are Worried About Payment for Order Flow</a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week38</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">bloomberg</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">broker</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">stocks</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">market</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Robinhood</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">PFOF</span>
+      </div>
+    </td></tr>
+    <tr><td>
       <a href="https://www.bloomberg.com/opinion/articles/2021-01-26/will-wallstreetbets-face-sec-scrutiny-after-gamestop-rally" target="_blank" rel="noopener noreferrer">GameStop Is Just a Game</a>
       <br/>
       <div class="text-right">
