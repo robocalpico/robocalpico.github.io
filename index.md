@@ -19,6 +19,118 @@ title: Home
   </thead>
   <tbody>
     <tr><td>
+      <a href="https://thesoundingline.com/is-chinas-rare-earth-monopoly-waning/" target="_blank" rel="noopener noreferrer">Is China's Rare Earth Monopoly Waning? - <strong>thesoundingline</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">rare earth</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://brickset.com/article/57962" target="_blank" rel="noopener noreferrer">Review: The Legendary Flower Fruit Mountain - <strong>brickset</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Flower fruit mountain</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Lego</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Monkie kid</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/the-50-most-visited-websites-in-the-world/" target="_blank" rel="noopener noreferrer">The 50 Most Visited Websites in the World - <strong>thesoundingline</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">analysis</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">websites</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">internet</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://sinocism.com/p/party-history-study-campaign-details" target="_blank" rel="noopener noreferrer">Party history study campaign; Details from June India-China clash; WHO investigation - <strong>sinocism</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-info text-wrap text-left">paywall</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">WHO</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">India</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/france-china-lead-the-world-for-corporate-debt/" target="_blank" rel="noopener noreferrer">France, China Lead the World for Corporate Debt - <strong>thesoundingline</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">corporate debt</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">debt</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">China</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">France</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/developed-market-working-age-populations-are-peaking/" target="_blank" rel="noopener noreferrer">Developed Market Working Age Populations Are Peaking - <strong>thesoundingline</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">labor</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">economy</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://thesoundingline.com/radios-reach-is-still-unparalleled/" target="_blank" rel="noopener noreferrer">Radio's Reach Is Still Unparalleled - <strong>thesoundingline</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">radio</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">advertisement</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">tv</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="http://www.asymco.com/2021/02/18/significant-contribution-again/" target="_blank" rel="noopener noreferrer">Significant Contribution Again - <strong>asymco</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">iOS</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">CarPlay</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.justinobeirne.com/look-around" target="_blank" rel="noopener noreferrer">Why doesn’t “Look Around” (Apple’s version of Google Street View) cover more areas? - <strong>justinobeirne</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Apple Maps</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Google Maps</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">look-around</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://stratechery.com/2021/clubhouses-inevitability/" target="_blank" rel="noopener noreferrer">Clubhouse’s Inevitability - <strong>stratechery</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Clubhouse</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">internet</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">social media</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">audio</span>
+      </div>
+    </td></tr>
+    <tr><td>
+      <a href="https://www.bloomberg.com/opinion/articles/2021-02-16/goldman-adds-robo-adviser-to-marcus-consumer-brand" target="_blank" rel="noopener noreferrer">Goldman Has an Investing Robot - <strong>bloomberg</strong></a>
+      <br/>
+      <div class="text-right">
+      <span class="badge badge-pill badge-warning text-wrap text-left">week39</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Goldman Sachs</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Marcus</span>
+      <span class="badge badge-pill badge-warning text-wrap text-left">Robo investor</span>
+      </div>
+    </td></tr>
+    <tr><td>
       <a href="https://daringfireball.net/linked/2021/02/10/dailey-google-ios-apps" target="_blank" rel="noopener noreferrer">Google’s iOS Apps, Which Still Haven’t Been Update Since Early December, Are Now Warning Users They’re Out of Date - <strong>daringfireball</strong></a>
       <br/>
       <div class="text-right">
